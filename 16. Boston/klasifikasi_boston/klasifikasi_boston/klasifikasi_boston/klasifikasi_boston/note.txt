@@ -1,0 +1,12 @@
+Tahap - tahap pengerjaan :
+- NaN (hapus, mean, median)
+- Duplikat (hapus)
+- Heatmp
+- Dummy kolom CRIM, RM, TAX, B, LSTAT
+- Outlier (hapus, mean, median)
+- Stratified split
+- SMOTE
+- Normalisasi
+- Silhouette score & Elbow Method
+- Model
+- Evaluasi

@@ -1,0 +1,1000 @@
+,budget,popularity,revenue,vote_average,vote_count,title,genre,production_company,Cluster
+0,237000000,150.437577,2787965087.0,7.2,11800.0,Avatar,Action,Ingenious Film Partners,3
+1,300000000,139.082615,961000000.0,6.9,4500.0,Pirates of the Caribbean: At World's End,Adventure,Walt Disney Pictures,3
+2,245000000,107.376788,880674609.0,6.3,4466.0,Spectre,Action,Columbia Pictures,1
+3,250000000,112.31295,1084939099.0,7.6,9106.0,The Dark Knight Rises,Action,Legendary Pictures,3
+4,260000000,43.926995,284139100.0,6.1,2124.0,John Carter,Action,Walt Disney Pictures,4
+5,258000000,115.699814,890871626.0,5.9,3576.0,Spider-Man 3,Fantasy,Columbia Pictures,1
+6,260000000,48.681969,591794936.0,7.4,3330.0,Tangled,Animation,Walt Disney Pictures,1
+7,280000000,134.279229,1405403694.0,7.3,6767.0,Avengers: Age of Ultron,Action,Marvel Studios,4
+8,250000000,98.885637,933959197.0,7.4,5293.0,Harry Potter and the Half-Blood Prince,Adventure,Warner Bros.,3
+9,250000000,155.790452,873260194.0,5.7,7004.0,Batman v Superman: Dawn of Justice,Action,DC Comics,1
+10,270000000,57.925623,391081192.0,5.4,1400.0,Superman Returns,Adventure,DC Comics,3
+11,200000000,107.928811,586090727.0,6.1,2965.0,Quantum of Solace,Adventure,Eon Productions,4
+12,200000000,145.847379,1065659812.0,7.0,5246.0,Pirates of the Caribbean: Dead Man's Chest,Adventure,Walt Disney Pictures,1
+13,255000000,49.046956,89289910.0,5.9,2311.0,The Lone Ranger,Action,Walt Disney Pictures,1
+14,225000000,99.398009,662845518.0,6.5,6359.0,Man of Steel,Action,Legendary Pictures,1
+15,225000000,53.978602,419651413.0,6.3,1630.0,The Chronicles of Narnia: Prince Caspian,Adventure,Walt Disney,1
+16,220000000,144.448633,1519557910.0,7.4,11776.0,The Avengers,Science Fiction,Paramount Pictures,3
+17,380000000,135.413856,1045713802.0,6.4,4948.0,Pirates of the Caribbean: On Stranger Tides,Adventure,Walt Disney Pictures,1
+18,225000000,52.035179,624026776.0,6.2,4160.0,Men in Black 3,Action,Amblin Entertainment,1
+19,250000000,120.965743,956019788.0,7.1,4760.0,The Hobbit: The Battle of the Five Armies,Action,WingNut Films,1
+20,215000000,89.866276,752215857.0,6.5,6586.0,The Amazing Spider-Man,Action,Columbia Pictures,1
+21,200000000,37.668301,310669540.0,6.2,1398.0,Robin Hood,Action,Imagine Entertainment,1
+22,250000000,94.370564,958400000.0,7.6,4524.0,The Hobbit: The Desolation of Smaug,Adventure,WingNut Films,1
+23,180000000,42.990906,372234864.0,5.8,1303.0,The Golden Compass,Adventure,New Line Cinema,1
+24,207000000,61.22601,550000000.0,6.6,2337.0,King Kong,Adventure,WingNut Films,1
+25,200000000,100.025899,1845034188.0,7.5,7562.0,Titanic,Drama,Paramount Pictures,1
+26,250000000,198.372395,1153304495.0,7.1,7241.0,Captain America: Civil War,Adventure,Studio Babelsberg,4
+27,209000000,64.928382,303025485.0,5.5,2114.0,Battleship,Thriller,Universal Pictures,1
+28,150000000,418.708552,1513528810.0,6.5,8662.0,Jurassic World,Action,Universal Studios,3
+29,200000000,93.004993,1108561013.0,6.9,7604.0,Skyfall,Action,Columbia Pictures,3
+30,200000000,35.149586,783766341.0,6.7,4321.0,Spider-Man 2,Action,Columbia Pictures,4
+31,200000000,77.68208,1215439994.0,6.8,8806.0,Iron Man 3,Action,Marvel Studios,1
+32,200000000,78.530105,1025491110.0,6.4,4645.0,Alice in Wonderland,Family,Walt Disney Pictures,1
+33,210000000,3.857526,459359555.0,6.3,3525.0,X-Men: The Last Stand,Adventure,Ingenious Film Partners,3
+34,200000000,89.186492,743559607.0,7.0,3528.0,Monsters University,Animation,Walt Disney Pictures,1
+35,150000000,21.939663,836297228.0,6.0,3138.0,Transformers: Revenge of the Fallen,Science Fiction,Paramount Pictures,1
+36,210000000,116.840296,1091405097.0,5.8,3095.0,Transformers: Age of Extinction,Science Fiction,Paramount Pictures,1
+37,200000000,46.985445,491868548.0,5.7,3530.0,Oz: The Great and Powerful,Fantasy,Walt Disney Pictures,1
+38,200000000,89.270217,705717432.0,6.5,4179.0,The Amazing Spider-Man 2,Action,Columbia Pictures,1
+39,170000000,73.79505,400062763.0,6.3,2841.0,TRON: Legacy,Adventure,Walt Disney Pictures,1
+40,200000000,49.98659,559852396.0,5.8,2033.0,Cars 2,Animation,Walt Disney Pictures,1
+41,200000000,51.872839,219851172.0,5.1,2487.0,Green Lantern,Adventure,De Line Pictures,1
+42,200000000,59.995418,1066969703.0,7.6,4597.0,Toy Story 3,Animation,Walt Disney Pictures,1
+43,200000000,71.862892,371353001.0,5.9,2463.0,Terminator Salvation,Action,Columbia Pictures,3
+44,190000000,102.322217,1506249360.0,7.3,4176.0,Furious 7,Action,Universal Pictures,1
+45,200000000,81.834855,531865000.0,6.7,5560.0,World War Z,Action,Paramount Pictures,1
+46,250000000,118.078691,747862775.0,7.5,6032.0,X-Men: Days of Future Past,Action,Twentieth Century Fox Film Corporation,1
+47,190000000,78.291018,467365246.0,7.4,4418.0,Star Trek Into Darkness,Action,Paramount Pictures,4
+48,195000000,43.349855,197687603.0,5.5,2598.0,Jack the Giant Slayer,Action,New Line Cinema,1
+49,105000000,61.196071,351040419.0,7.3,3769.0,The Great Gatsby,Drama,Village Roadshow Pictures,3
+50,150000000,62.169881,335154643.0,6.2,2317.0,Prince of Persia: The Sands of Time,Adventure,Walt Disney Pictures,4
+51,180000000,56.523205,407602906.0,6.7,4794.0,Pacific Rim,Action,Legendary Pictures,1
+52,195000000,28.529607,1123746996.0,6.1,3299.0,Transformers: Dark of the Moon,Action,Paramount Pictures,3
+53,185000000,75.674458,786636033.0,5.7,2495.0,Indiana Jones and the Kingdom of the Crystal Skull,Adventure,Lucasfilm,3
+54,175000000,51.692953,331926147.0,6.6,1736.0,The Good Dinosaur,Adventure,Walt Disney Pictures,4
+55,185000000,125.114374,538983207.0,6.7,4641.0,Brave,Animation,Walt Disney Pictures,4
+56,185000000,65.352913,343471816.0,6.6,2568.0,Star Trek Beyond,Action,Paramount Pictures,1
+57,180000000,66.390712,521311860.0,7.8,6296.0,WALL·E,Animation,Walt Disney Pictures,3
+58,140000000,22.57178,258022233.0,6.1,783.0,Rush Hour 3,Action,New Line Cinema,1
+59,200000000,45.274225,769653595.0,5.6,4903.0,2012,Action,Columbia Pictures,1
+60,200000000,39.744242,325233863.0,6.6,1095.0,A Christmas Carol,Animation,Walt Disney,1
+61,176000003,85.36908,183987723.0,5.2,2768.0,Jupiter Ascending,Science Fiction,Village Roadshow Pictures,1
+62,180000000,42.741719,356743061.0,5.5,2430.0,The Legend of Tarzan,Action,Village Roadshow Pictures,1
+63,180000000,67.391328,748806957.0,6.7,2629.0,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Adventure,Walt Disney,1
+64,178000000,139.272042,543934787.0,6.4,4721.0,X-Men: Apocalypse,Science Fiction,Twentieth Century Fox Film Corporation,1
+65,185000000,187.322927,1004558444.0,8.2,12002.0,The Dark Knight,Drama,DC Comics,1
+66,175000000,92.201962,735099082.0,7.7,6870.0,Up,Animation,Pixar Animation Studios,1
+67,175000000,36.167578,381509870.0,6.0,1423.0,Monsters vs Aliens,Animation,DreamWorks Animation,1
+68,140000000,120.725053,585174222.0,7.4,8776.0,Iron Man,Action,Marvel Studios,1
+69,170000000,32.319043,185770160.0,7.0,2141.0,Hugo,Adventure,Paramount Pictures,1
+70,170000000,40.748915,222104681.0,5.1,1020.0,Wild Wild West,Action,"Todman, Simon, LeMasters Productions",1
+71,145000000,60.034162,401128639.0,5.2,1387.0,The Mummy: Tomb of the Dragon Emperor,Adventure,Universal Pictures,1
+72,175000000,90.23792,745000000.0,5.9,7458.0,Suicide Squad,Action,DC Comics,4
+73,175000000,27.082182,173000000.0,5.3,1151.0,Evan Almighty,Fantasy,Columbia Pictures,3
+74,178000000,79.456485,370541256.0,7.6,4858.0,Edge of Tomorrow,Action,Village Roadshow Pictures,1
+75,175000000,44.640292,264218220.0,5.9,992.0,Waterworld,Adventure,Universal Pictures,3
+76,175000000,32.852443,302469017.0,5.6,1962.0,G.I. Joe: The Rise of Cobra,Adventure,Paramount Pictures,1
+77,175000000,128.655964,857611174.0,8.0,6560.0,Inside Out,Drama,Walt Disney Pictures,1
+78,175000000,94.199316,966550600.0,6.7,2892.0,The Jungle Book,Family,Walt Disney Pictures,1
+79,200000000,77.300194,623933331.0,6.6,6849.0,Iron Man 2,Adventure,Marvel Studios,3
+80,170000000,77.178973,396600000.0,5.8,3118.0,Snow White and the Huntsman,Adventure,Universal Pictures,3
+81,180000000,110.620647,758539785.0,7.0,4496.0,Maleficent,Fantasy,Walt Disney Pictures,4
+82,170000000,243.791743,710644566.0,7.3,4410.0,Dawn of the Planet of the Apes,Science Fiction,Ingenious Media,3
+83,27000000,2.418535,0.0,4.8,34.0,The Lovers,Action,Corsan,1
+84,175000000,41.796339,150962475.0,5.9,1326.0,47 Ronin,Drama,Mid Atlantic Films,3
+85,170000000,72.225265,714766572.0,7.6,5764.0,Captain America: The Winter Soldier,Action,Marvel Studios,1
+86,165000000,44.041186,752600867.0,6.0,1959.0,Shrek Forever After,Comedy,DreamWorks Animation,3
+87,190000000,130.311355,209154322.0,6.2,2846.0,Tomorrowland,Adventure,Walt Disney Pictures,4
+88,165000000,203.73459,652105443.0,7.8,6135.0,Big Hero 6,Adventure,Walt Disney Pictures,1
+89,165000000,62.341073,471222889.0,7.1,4570.0,Wreck-It Ralph,Family,Walt Disney Animation Studios,2
+90,165000000,47.323228,305875730.0,6.4,1474.0,The Polar Express,Adventure,Golden Mean,4
+91,165000000,48.775723,389681935.0,4.9,2491.0,Independence Day: Resurgence,Action,Twentieth Century Fox Film Corporation,0
+92,165000000,67.263269,494878759.0,7.5,4227.0,How to Train Your Dragon,Fantasy,DreamWorks Animation,1
+93,200000000,69.405188,435000000.0,5.9,2143.0,Terminator 3: Rise of the Machines,Action,Columbia Pictures,3
+94,170000000,481.098624,773328629.0,7.9,9742.0,Guardians of the Galaxy,Action,Marvel Studios,1
+95,165000000,724.247784,675120017.0,8.1,10867.0,Interstellar,Adventure,Paramount Pictures,3
+96,160000000,167.58371,825532764.0,8.1,13752.0,Inception,Action,Legendary Pictures,3
+97,15000000,9.476999,77000000.0,6.5,143.0,Shin Godzilla,Action,Cine Bazar,3
+98,250000000,108.849621,1021103568.0,7.0,8297.0,The Hobbit: An Unexpected Journey,Adventure,WingNut Films,3
+99,38000000,6.909942,207283925.0,6.6,3428.0,The Fast and the Furious,Action,Universal Pictures,3
+100,150000000,60.269279,333932083.0,7.3,3292.0,The Curious Case of Benjamin Button,Fantasy,Paramount Pictures,3
+101,160000000,3.195174,353624124.0,7.1,5181.0,X-Men: First Class,Action,Ingenious Film Partners,1
+102,160000000,127.284427,653428261.0,6.6,3984.0,The Hunger Games: Mockingjay - Part 2,Action,Studio Babelsberg,3
+103,150000000,35.580815,215283742.0,5.8,1470.0,The Sorcerer's Apprentice,Fantasy,Walt Disney Pictures,3
+104,160000000,21.133748,181674817.0,5.5,583.0,Poseidon,Adventure,Virtual Studios,4
+105,170000000,56.268916,299370084.0,6.5,1725.0,Alice Through the Looking Glass,Fantasy,Walt Disney Pictures,3
+106,160000000,42.986467,798958165.0,6.0,2278.0,Shrek the Third,Fantasy,DreamWorks SKG,0
+107,160000000,63.148529,433677183.0,6.3,2268.0,Warcraft,Action,Universal Pictures,1
+108,155000000,202.042635,440603537.0,5.8,3631.0,Terminator Genisys,Science Fiction,Paramount Pictures,1
+109,155000000,49.661984,415686217.0,6.2,1514.0,The Chronicles of Narnia: The Voyage of the Dawn Treader,Adventure,Dune Entertainment,1
+110,140000000,34.20669,449220945.0,6.6,1791.0,Pearl Harbor,History,Jerry Bruckheimer Films,3
+111,150000000,25.468493,709709780.0,6.6,4040.0,Transformers,Adventure,Paramount Pictures,3
+112,155000000,39.019229,167298192.0,5.6,927.0,Alexander,War,France 3 Cinéma,1
+113,150000000,78.144395,938212738.0,7.4,5494.0,Harry Potter and the Order of the Phoenix,Adventure,Warner Bros.,1
+114,150000000,101.250416,895921036.0,7.5,5608.0,Harry Potter and the Goblet of Fire,Adventure,Patalex IV Productions Limited,4
+115,150000000,56.758411,624029371.0,6.2,2961.0,Hancock,Fantasy,Columbia Pictures,3
+116,150000000,70.867401,585349010.0,6.9,4853.0,I Am Legend,Drama,Village Roadshow Pictures,4
+117,150000000,53.905592,474968763.0,6.7,3624.0,Charlie and the Chocolate Factory,Adventure,Village Roadshow Pictures,1
+118,150000000,65.677399,623722818.0,7.5,4369.0,Ratatouille,Animation,Walt Disney Pictures,4
+119,150000000,115.040024,374218673.0,7.5,7359.0,Batman Begins,Action,DC Comics,1
+120,150000000,44.141021,603900354.0,6.2,1810.0,Madagascar: Escape 2 Africa,Family,DreamWorks Animation,4
+121,150000000,81.781591,413106170.0,5.9,1971.0,Night at the Museum: Battle of the Smithsonian,Adventure,Twentieth Century Fox Film Corporation,1
+122,150000000,5.954334,373062864.0,6.2,4021.0,X-Men Origins: Wolverine,Adventure,Ingenious Film Partners,3
+123,150000000,73.313918,424988211.0,6.4,3096.0,The Matrix Revolutions,Adventure,Village Roadshow Pictures,3
+124,150000000,165.125366,1274219009.0,7.3,5295.0,Frozen,Animation,Walt Disney Pictures,4
+125,150000000,70.78591,738599701.0,6.7,3443.0,The Matrix Reloaded,Adventure,Village Roadshow Pictures,1
+126,170000000,99.499595,644571402.0,6.8,4755.0,Thor: The Dark World,Action,Marvel Studios,3
+127,150000000,434.278564,378858340.0,7.2,9427.0,Mad Max: Fury Road,Action,Village Roadshow Pictures,3
+128,150000000,67.447636,356613439.0,6.5,2129.0,Angels & Demons,Thriller,Columbia Pictures,3
+129,150000000,86.493424,449326618.0,6.6,6525.0,Thor,Adventure,Marvel Studios,1
+130,150000000,41.845878,309979994.0,6.3,1750.0,Bolt,Animation,Walt Disney Animation Studios,4
+131,150000000,26.710398,292817841.0,5.1,510.0,G-Force,Fantasy,Walt Disney Pictures,3
+132,150000000,44.927635,301000000.0,5.5,1431.0,Wrath of the Titans,Adventure,Legendary Pictures,3
+133,150000000,50.306728,245527149.0,5.7,2320.0,Dark Shadows,Comedy,Village Roadshow Pictures,3
+134,150000000,114.522237,682330139.0,7.1,3224.0,Mission: Impossible - Rogue Nation,Action,Paramount Pictures,0
+135,150000000,21.214571,0.0,5.5,549.0,The Wolfman,Drama,Universal Pictures,3
+136,150000000,29.332905,287594577.0,5.7,1171.0,Bee Movie,Family,Pacific Data Images (PDI),3
+137,150000000,51.247321,665692281.0,6.7,1880.0,Kung Fu Panda 2,Animation,DreamWorks Animation,1
+138,150000000,33.769336,318502923.0,4.7,1151.0,The Last Airbender,Action,Paramount Pictures,4
+139,150000000,63.079003,397850012.0,6.5,2028.0,Mission: Impossible III,Adventure,Paramount Pictures,3
+140,150000000,39.004588,205366737.0,6.4,1891.0,White House Down,Action,Columbia Pictures,4
+141,150000000,12.362599,38992758.0,5.5,199.0,Mars Needs Moms,Adventure,Walt Disney Animation Studios,4
+142,149000000,22.550135,64459316.0,6.0,874.0,Flushed Away,Adventure,Aardman Animations,1
+143,150000000,48.03528,128388320.0,5.9,954.0,Pan,Adventure,Warner Bros.,1
+144,145000000,38.73494,272912430.0,6.7,843.0,Mr. Peabody & Sherman,Animation,Pacific Data Images (PDI),1
+145,175000000,66.803149,497409852.0,6.9,2759.0,Troy,Adventure,Plan B Entertainment,1
+146,145000000,44.989192,746921274.0,6.4,1808.0,Madagascar 3: Europe's Most Wanted,Animation,DreamWorks Animation,3
+147,140000000,54.159392,431971116.0,5.8,1092.0,Die Another Day,Adventure,Eon Productions,3
+148,144000000,66.21806,229147509.0,5.3,2142.0,Ghostbusters,Action,Columbia Pictures,3
+149,140000000,58.485967,553799566.0,6.4,2482.0,Armageddon,Action,Jerry Bruckheimer Films,1
+150,140000000,91.332849,441818803.0,6.0,3114.0,Men in Black II,Action,Columbia Pictures,1
+151,70000000,35.601665,195735876.0,5.5,841.0,Beowulf,Adventure,Paramount Pictures,3
+152,145000000,56.747978,521170825.0,6.7,1603.0,Kung Fu Panda 3,Action,Twentieth Century Fox Film Corporation,1
+153,145000000,77.77477,694713380.0,6.8,3972.0,Mission: Impossible - Ghost Protocol,Action,Paramount Pictures,3
+154,145000000,61.788035,306941670.0,7.1,1922.0,Rise of the Guardians,Fantasy,DreamWorks Animation,1
+155,100000000,25.159168,202026112.0,5.9,627.0,Fun with Dick and Jane,Comedy,Imagine Entertainment,1
+156,140000000,52.341226,456758981.0,7.3,1895.0,The Last Samurai,Drama,Cruise/Wagner Productions,4
+157,140000000,101.599427,268031828.0,5.6,1921.0,Exodus: Gods and Kings,Adventure,Scott Free Productions,1
+158,150000000,73.616808,385680446.0,7.4,4518.0,Star Trek,Science Fiction,Paramount Pictures,1
+159,139000000,82.502566,821708551.0,6.8,5265.0,Spider-Man,Fantasy,Columbia Pictures,1
+160,145000000,100.21391,609123048.0,7.6,3106.0,How to Train Your Dragon 2,Fantasy,DreamWorks Animation,1
+161,140000000,56.257249,150680864.0,5.3,1277.0,Gods of Egypt,Fantasy,Summit Entertainment,3
+162,135000000,17.88953,76932943.0,4.9,331.0,Stealth,Action,Laura Ziskin Productions,1
+163,130000000,64.798873,185258983.0,7.0,2811.0,Watchmen,Action,Paramount Pictures,1
+164,140000000,24.855701,285444603.0,6.3,767.0,Lethal Weapon 4,Action,Silver Pictures,4
+165,137000000,34.981698,245360480.0,5.3,1533.0,Hulk,Drama,Universal Pictures,3
+166,130000000,59.325589,371876278.0,5.4,3025.0,G.I. Joe: Retaliation,Adventure,Paramount Pictures,3
+167,130000000,21.605568,119269486.0,5.7,434.0,Sahara,Action,Paramount Pictures,3
+168,137000000,26.074908,85131830.0,5.9,433.0,Final Fantasy: The Spirits Within,Adventure,Columbia Pictures,4
+169,140000000,74.506246,370569774.0,6.6,7047.0,Captain America: The First Avenger,Action,Marvel Studios,3
+170,135000000,39.604363,361832400.0,6.0,862.0,The World Is Not Enough,Adventure,Eon Productions,3
+171,150000000,36.973031,212011111.0,6.9,790.0,Master and Commander: The Far Side of the World,Adventure,Universal Pictures,3
+172,120000000,99.687084,829000000.0,6.1,2553.0,The Twilight Saga: Breaking Dawn - Part 2,Adventure,Summit Entertainment,3
+173,130000000,17.7735,150406466.0,5.8,373.0,Happy Feet Two,Animation,Village Roadshow Pictures,3
+174,150000000,62.898336,163712074.0,6.1,3021.0,The Incredible Hulk,Science Fiction,Universal Pictures,3
+175,140000000,44.19092,183345589.0,6.0,1000.0,The BFG,Adventure,Walt Disney Pictures,4
+176,135000000,100.635882,532950503.0,7.3,6396.0,The Revenant,Western,Regency Enterprises,4
+177,135000000,44.765377,282570682.0,6.1,1074.0,Turbo,Animation,DreamWorks Animation,4
+178,135000000,29.91353,245724603.0,6.6,2051.0,Rango,Animation,Paramount Pictures,1
+179,132000000,84.366984,373552094.0,6.5,1346.0,Penguins of Madagascar,Family,DreamWorks Animation,3
+180,70000000,45.381501,442824138.0,7.3,2888.0,The Bourne Ultimatum,Action,Universal Pictures,1
+181,130000000,84.689648,631744560.0,6.9,3145.0,Kung Fu Panda,Adventure,DreamWorks Animation,3
+182,130000000,120.09361,519311965.0,7.0,5880.0,Ant-Man,Science Fiction,Marvel Studios,3
+183,130000000,76.310119,847423452.0,7.4,6495.0,The Hunger Games: Catching Fire,Adventure,Lionsgate,3
+184,135000000,63.473086,368871007.0,6.8,1519.0,Home,Fantasy,Twentieth Century Fox Film Corporation,3
+185,132000000,48.572726,591739379.0,6.2,2322.0,War of the Worlds,Adventure,Paramount Pictures,4
+186,130000000,38.068736,273339556.0,6.3,1564.0,Bad Boys II,Adventure,Columbia Pictures Corporation,3
+187,130000000,20.678787,554987477.0,6.4,451.0,Puss in Boots,Action,DreamWorks,3
+188,110000000,48.829437,293329073.0,6.2,2093.0,Salt,Action,Columbia Pictures,1
+189,125000000,46.115758,362637473.0,5.6,2350.0,Noah,Drama,Paramount Pictures,4
+190,130000000,89.938296,371940071.0,6.7,2061.0,The Adventures of Tintin,Adventure,Paramount Pictures,1
+191,130000000,79.679601,789804554.0,7.7,5877.0,Harry Potter and the Prisoner of Azkaban,Adventure,1492 Pictures,2
+192,130000000,28.840997,49554002.0,6.3,694.0,Australia,Drama,Bazmark Films,1
+193,130000000,42.840582,243843127.0,5.0,2532.0,After Earth,Science Fiction,Columbia Pictures,3
+194,127500000,26.548594,354248063.0,6.2,542.0,Dinosaur,Animation,Walt Disney Pictures,1
+195,127000000,115.597753,349424282.0,6.1,1851.0,Night at the Museum: Secret of the Tomb,Adventure,Twentieth Century Fox Film Corporation,3
+196,130000000,68.757242,321887208.0,6.7,1918.0,Megamind,Animation,DreamWorks Animation,1
+197,125000000,109.984351,976475550.0,7.5,7006.0,Harry Potter and the Philosopher's Stone,Adventure,1492 Pictures,1
+198,130000000,39.448066,61648500.0,5.4,1260.0,R.I.P.D.,Fantasy,Universal Pictures,1
+199,140000000,271.972889,655011224.0,7.5,6985.0,Pirates of the Caribbean: The Curse of the Black Pearl,Adventure,Walt Disney Pictures,1
+200,125000000,206.227151,752100229.0,6.6,5584.0,The Hunger Games: Mockingjay - Part 1,Science Fiction,Lionsgate,3
+201,125000000,45.313197,767820459.0,6.5,2704.0,The Da Vinci Code,Thriller,Columbia Pictures,1
+202,103000000,42.40024,500188435.0,6.3,978.0,Rio 2,Animation,Blue Sky Studios,3
+203,110000000,2.871739,407711549.0,6.8,3506.0,X2,Adventure,Twentieth Century Fox Film Corporation,1
+204,125000000,7.255718,626137675.0,7.1,2438.0,Fast Five,Action,Universal Pictures,3
+205,125000000,81.499621,334615000.0,7.0,3886.0,Sherlock Holmes: A Game of Shadows,Adventure,Village Roadshow Pictures,1
+206,125000000,47.686442,232713139.0,5.6,2233.0,Clash of the Titans,Adventure,The Zanuck Company,2
+207,65000000,43.129703,261317921.0,7.1,1710.0,Total Recall,Action,TriStar Pictures,1
+208,160000000,27.220157,61698899.0,6.4,510.0,The 13th Warrior,Adventure,Touchstone Pictures,1
+209,130000000,90.33681,276572938.0,6.0,2651.0,The Bourne Legacy,Action,Universal Pictures,1
+210,125000000,50.073575,238207122.0,4.2,1418.0,Batman & Robin,Action,PolyGram Filmed Entertainment,3
+211,123000000,45.419668,345141403.0,6.2,1386.0,How the Grinch Stole Christmas,Family,Imagine Entertainment,4
+212,125000000,41.380094,544272402.0,6.2,2392.0,The Day After Tomorrow,Action,Lions Gate Films,1
+213,125000000,54.931334,546388105.0,5.9,1928.0,Mission: Impossible II,Adventure,Paramount Pictures,4
+214,120000000,25.752118,325756637.0,6.2,597.0,The Perfect Storm,Drama,Warner Bros.,3
+215,130000000,60.810723,289047763.0,5.4,2589.0,Fantastic 4: Rise of the Silver Surfer,Adventure,Ingenious Film Partners,4
+216,120000000,51.328145,609016565.0,7.2,5797.0,Life of Pi,Adventure,Ingenious Film Partners,4
+217,110000000,46.834704,228738393.0,5.2,1712.0,Ghost Rider,Thriller,Columbia Pictures Corporation,3
+218,120000000,62.641286,415484914.0,5.9,2341.0,Jason Bourne,Action,The Kennedy/Marshall Company,3
+219,120000000,33.616115,259175788.0,5.2,914.0,Charlie's Angels: Full Throttle,Action,Columbia Pictures,2
+220,130000000,68.889395,403170142.0,6.3,5080.0,Prometheus,Science Fiction,Twentieth Century Fox Film Corporation,4
+221,120000000,27.990284,169956806.0,5.4,613.0,Stuart Little 2,Family,Columbia Pictures,3
+222,115000000,67.33767,286140700.0,6.4,3439.0,Elysium,Science Fiction,TriStar Pictures,3
+223,105000000,27.835436,115772733.0,6.3,1570.0,The Chronicles of Riddick,Action,One Race Films,2
+224,120000000,66.757869,242688965.0,5.7,2342.0,RoboCop,Action,Columbia Pictures,3
+225,120000000,17.060695,93945766.0,5.7,354.0,Speed Racer,Action,Village Roadshow Pictures,3
+226,120000000,11.137655,48668907.0,4.9,223.0,How Do You Know,Comedy,Columbia Pictures,1
+227,117000000,44.906918,261930431.0,5.9,1547.0,Knight and Day,Action,Tree Line Films,3
+228,120000000,67.698004,286168572.0,6.4,4800.0,Oblivion,Action,Universal Pictures,4
+229,113000000,44.108427,850000000.0,7.1,4116.0,Star Wars: Episode III - Revenge of the Sith,Science Fiction,Lucasfilm,3
+230,120000000,43.987061,649398328.0,6.4,3992.0,Star Wars: Episode II - Attack of the Clones,Adventure,Lucasfilm,4
+231,115000000,106.815545,562816256.0,7.5,5996.0,"Monsters, Inc.",Animation,Walt Disney Pictures,4
+232,120000000,15.953444,415440673.0,6.3,4053.0,The Wolverine,Action,Twentieth Century Fox Film Corporation,3
+233,115000000,54.035265,924317558.0,6.3,4432.0,Star Wars: Episode I - The Phantom Menace,Adventure,Lucasfilm,3
+234,135000000,64.183321,585178928.0,6.8,2399.0,The Croods,Adventure,DreamWorks Animation,1
+235,97250400,20.344364,132900000.0,5.0,471.0,Asterix at the Olympic Games,Fantasy,Constantin Film,4
+236,115000000,18.714197,77628265.0,5.8,341.0,Windtalkers,Drama,Lion Rock Productions,1
+237,115000000,60.467984,164602163.0,6.0,1523.0,The Huntsman: Winter's War,Action,Universal Pictures,1
+238,125000000,143.350376,477200000.0,5.8,2636.0,Teenage Mutant Ninja Turtles,Science Fiction,Paramount Pictures,1
+239,105000000,110.153618,716392705.0,7.3,5751.0,Gravity,Science Fiction,Warner Bros.,4
+240,116000000,16.90444,178127760.0,5.7,428.0,Dante's Peak,Action,Universal Pictures,4
+241,135000000,39.873791,245623848.0,5.8,963.0,Teenage Mutant Ninja Turtles: Out of the Shadows,Fantasy,Paramount Pictures,1
+242,120000000,38.126095,167977596.0,4.4,2278.0,Fantastic Four,Action,Twentieth Century Fox Film Corporation,1
+243,110000000,48.780039,574480841.0,6.3,2862.0,Night at the Museum,Action,Ingenious Film Partners,1
+244,110000000,100.412364,470490832.0,6.0,2968.0,San Andreas,Action,New Line Cinema,1
+245,110000000,42.887121,333011068.0,6.0,925.0,Tomorrow Never Dies,Adventure,Eon Productions,1
+246,110000000,23.657284,215294342.0,6.8,1099.0,The Patriot,Drama,Centropolis Entertainment,4
+247,110000000,76.840712,362744280.0,6.4,2124.0,Ocean's Twelve,Thriller,Village Roadshow Pictures,2
+248,110000000,44.635452,478207520.0,6.5,2965.0,Mr. & Mrs. Smith,Action,Weed Road Pictures,2
+249,110000000,103.718387,295238201.0,6.2,3829.0,Insurgent,Adventure,Summit Entertainment,1
+250,116000000,45.616098,102000000.0,7.0,1489.0,The Aviator,Drama,Miramax Films,1
+251,112000000,22.845143,237382724.0,4.9,621.0,Gulliver's Travels,Comedy,Twentieth Century Fox Film Corporation,3
+252,120000000,31.703608,227817248.0,5.5,1251.0,The Green Hornet,Action,Original Film,3
+253,110000000,71.510596,337580051.0,6.1,2397.0,300: Rise of an Empire,Action,Legendary Pictures,4
+254,110000000,36.65422,563749323.0,5.5,1179.0,The Smurfs,Animation,Columbia Pictures,2
+255,110000000,19.625972,103951461.0,5.7,389.0,Home on the Range,Animation,Walt Disney Pictures,0
+256,110000000,86.105615,179246868.0,5.9,1998.0,Allegiant,Adventure,Summit Entertainment,2
+257,110000000,37.195046,299268508.0,6.6,2692.0,Real Steel,Action,DreamWorks SKG,1
+258,105000000,32.473628,347434178.0,5.5,695.0,The Smurfs 2,Fantasy,Columbia Pictures,1
+259,160000000,23.336875,164508066.0,4.1,434.0,Speed 2: Cruise Control,Action,Twentieth Century Fox Film Corporation,4
+260,110000000,45.94834,125537191.0,6.6,2303.0,Ender's Game,Science Fiction,Summit Entertainment,1
+261,110000000,48.93337,383531464.0,6.4,2089.0,Live Free or Die Hard,Action,Ingenious Film Partners,1
+262,93000000,138.049577,871368364.0,8.0,8705.0,The Lord of the Rings: The Fellowship of the Ring,Adventure,WingNut Films,3
+263,110000000,22.643776,72178895.0,5.7,672.0,Around the World in 80 Days,Action,Studio Babelsberg,2
+264,107000000,18.866672,87713825.0,6.7,447.0,Ali,Drama,Columbia Pictures Corporation,1
+265,0,18.251129,0.0,4.9,366.0,The Cat in the Hat,Comedy,Imagine Entertainment,3
+266,120000000,95.914473,347234916.0,6.7,3793.0,"I, Robot",Action,Twentieth Century Fox Film Corporation,0
+267,130000000,44.490453,211643158.0,6.6,1157.0,Kingdom of Heaven,Drama,Studio Babelsberg,3
+268,133000000,30.475297,300135367.0,5.8,959.0,Stuart Little,Animation,Columbia Pictures Corporation,4
+269,105000000,62.479574,267045765.0,6.7,1247.0,The Princess and the Frog,Romance,Walt Disney Pictures,3
+270,108000000,167.93287,630161890.0,7.6,7268.0,The Martian,Drama,Twentieth Century Fox Film Corporation,1
+271,126000000,37.68056,162949164.0,6.5,1770.0,The Island,Action,DreamWorks SKG,1
+272,90000000,1.004579,10372291.0,3.7,16.0,Town & Country,Comedy,New Line Cinema,1
+273,90000000,52.995628,237202299.0,6.1,1485.0,Gone in Sixty Seconds,Action,Jerry Bruckheimer Films,1
+274,103000000,95.301296,457640427.0,7.9,5439.0,Gladiator,Action,DreamWorks SKG,1
+275,102000000,65.948959,358372926.0,7.1,2608.0,Minority Report,Action,DreamWorks SKG,2
+276,100000000,132.397737,876688482.0,7.4,5815.0,Harry Potter and the Chamber of Secrets,Adventure,1492 Pictures,3
+277,150000000,88.935165,599045960.0,7.3,3855.0,Casino Royale,Adventure,Eon Productions,3
+278,100000000,51.188633,362211740.0,5.6,1243.0,Planet of the Apes,Thriller,Twentieth Century Fox Film Corporation,3
+279,100000000,101.74155,520000000.0,7.7,4185.0,Terminator 2: Judgment Day,Action,Lightstorm Entertainment,4
+280,80000000,33.691694,214104620.0,6.5,1344.0,Public Enemies,History,Universal Pictures,1
+281,100000000,42.361215,266465037.0,7.4,1502.0,American Gangster,Drama,Imagine Entertainment,3
+282,115000000,38.729418,378882411.0,6.8,1116.0,True Lies,Action,Twentieth Century Fox Film Corporation,4
+283,100000000,40.597856,150166126.0,6.2,954.0,The Taking of Pelham 1 2 3,Thriller,Columbia Pictures,4
+284,100000000,32.389353,310650585.0,5.4,1060.0,Little Fockers,Comedy,Paramount Pictures,3
+285,100000000,24.399642,170432927.0,6.1,1383.0,The Other Guys,Action,Columbia Pictures,3
+286,100000000,24.507987,242295562.0,5.6,543.0,Eraser,Action,Kopelson Entertainment,3
+287,100000000,82.121691,425368238.0,7.8,10099.0,Django Unchained,Drama,Columbia Pictures,4
+288,100000000,46.727941,100138851.0,6.8,1129.0,The Hunchback of Notre Dame,Drama,Walt Disney Pictures,0
+289,100000000,51.113717,169327687.0,7.2,1490.0,The Emperor's New Groove,Adventure,Walt Disney Pictures,2
+290,100000000,53.732892,312573423.0,6.1,2896.0,The Expendables 2,Action,Nu Image Films,4
+291,100000000,58.849256,347451894.0,6.4,1926.0,National Treasure,Adventure,Walt Disney Pictures,4
+292,100000000,30.863434,249288105.0,4.9,967.0,Eragon,Fantasy,Ingenious Film Partners,3
+293,100000000,31.586215,100086793.0,6.4,572.0,Where the Wild Things Are,Family,Village Roadshow Pictures,3
+294,100000000,36.711378,268426634.0,6.4,1121.0,Epic,Animation,Blue Sky Studios,3
+295,100000000,41.426678,278731369.0,6.0,1699.0,The Tourist,Action,Columbia Pictures,3
+296,100000000,20.652943,211989043.0,5.5,482.0,End of Days,Action,Beacon Communications,1
+297,100000000,52.792678,170877916.0,7.3,2281.0,Blood Diamond,Drama,Bedford Falls Productions,4
+298,100000000,95.007934,392000694.0,7.9,6571.0,The Wolf of Wall Street,Crime,Paramount Pictures,3
+299,100000000,48.205606,336529144.0,5.2,1498.0,Batman Forever,Action,Warner Bros.,3
+300,105000000,58.782359,121214377.0,6.7,1560.0,Starship Troopers,Adventure,TriStar Pictures,4
+301,102000000,73.872343,130482868.0,6.6,2977.0,Cloud Atlas,Drama,Anarchos Productions,4
+302,80000000,37.321848,140073390.0,6.5,703.0,Legend of the Guardians: The Owls of Ga'Hoole,Animation,Village Roadshow Pictures,3
+303,100000000,32.271938,82102379.0,4.2,808.0,Catwoman,Action,Village Roadshow Pictures,4
+304,100000000,76.842247,243400000.0,5.6,1680.0,Hercules,Action,Paramount Pictures,3
+305,140000000,38.924136,109578115.0,7.2,948.0,Treasure Planet,Adventure,Walt Disney Pictures,3
+306,100000000,19.38841,68688831.0,5.3,381.0,Land of the Lost,Adventure,Universal Pictures,4
+307,90000000,61.025639,206172544.0,6.1,1795.0,The Expendables 3,Action,Davis-Films,3
+308,105000000,33.507289,133718711.0,5.5,783.0,Point Break,Action,Studio Babelsberg,2
+309,84000000,17.815595,0.0,3.6,338.0,Son of the Mask,Fantasy,New Line Cinema,4
+310,100000000,50.767332,93820758.0,6.5,1276.0,In the Heart of the Sea,Thriller,Imagine Entertainment,4
+311,100000000,12.092241,7103973.0,4.4,142.0,The Adventures of Pluto Nash,Action,Village Roadshow Pictures,4
+312,100000000,30.254021,94882889.0,6.4,717.0,Green Zone,War,Universal Pictures,3
+313,99000000,34.308098,246233113.0,6.5,604.0,The Peanuts Movie,Animation,Blue Sky Studios,3
+314,10000000,3.091077,13835130.0,7.1,73.0,The Spanish Prisoner,Crime,Jean Doumanian Productions,1
+315,98000000,41.862983,433013274.0,6.0,2206.0,The Mummy Returns,Adventure,Universal Pictures,3
+316,100000000,46.160048,193772504.0,7.1,1910.0,Gangs of New York,Drama,Miramax Films,0
+317,94000000,12.516546,95311434.0,7.1,187.0,The Flowers of War,Drama,Beijing New Picture Film Co. Ltd.,3
+318,85000000,23.230851,149044513.0,5.9,601.0,Surf's Up,Animation,Columbia Pictures,3
+319,90000000,19.224754,102000000.0,5.4,334.0,The Stepford Wives,Action,Paramount Pictures,3
+320,92000000,44.455166,172989651.0,7.2,1811.0,Black Hawk Down,Action,Jerry Bruckheimer Films,1
+321,0,16.460356,104907746.0,5.6,578.0,The Campaign,Comedy,Everyman Pictures,4
+322,90000000,109.528572,263920180.0,7.3,3885.0,The Fifth Element,Adventure,Columbia Pictures,3
+323,100000000,18.325897,288347692.0,5.4,426.0,Sex and the City 2,Comedy,New Line Cinema,1
+324,95000000,37.054554,76432727.0,7.0,858.0,The Road to El Dorado,Adventure,DreamWorks SKG,4
+325,95000000,65.229868,877244782.0,6.2,2672.0,Ice Age: Continental Drift,Animation,Blue Sky Studios,0
+326,95000000,101.187052,543514353.0,6.7,2374.0,Cinderella,Romance,Walt Disney Pictures,4
+327,65000000,29.257137,93525586.0,6.6,1065.0,The Lovely Bones,Fantasy,WingNut Films,1
+328,94000000,85.688789,940335536.0,7.6,6122.0,Finding Nemo,Animation,Pixar Animation Studios,3
+329,94000000,123.630332,1118888979.0,8.1,8064.0,The Lord of the Rings: The Return of the King,Adventure,WingNut Films,1
+330,79000000,106.914973,926287400.0,8.0,7487.0,The Lord of the Rings: The Two Towers,Adventure,WingNut Films,4
+331,95000000,63.628459,114178613.0,5.2,957.0,Seventh Son,Adventure,Legendary Pictures,1
+332,115000000,41.498631,274703340.0,5.7,2192.0,Lara Croft: Tomb Raider,Adventure,Paramount Pictures,3
+333,100000000,58.991388,103039258.0,5.9,2295.0,Transcendence,Thriller,Alcon Entertainment,1
+334,93000000,1.859364,368780809.0,5.7,2077.0,Jurassic Park III,Adventure,Universal Studios,3
+335,93000000,138.433168,482860185.0,7.0,4347.0,Rise of the Planet of the Apes,Thriller,Ingenious Film Partners,1
+336,90000000,21.436682,162839667.0,6.3,572.0,The Spiderwick Chronicles,Adventure,Paramount Pictures,3
+337,92000000,65.402595,304654182.0,5.2,3493.0,A Good Day to Die Hard,Action,Ingenious Media,1
+338,145000000,10.660441,25819961.0,5.8,106.0,The Alamo,Western,Imagine Entertainment,3
+339,92000000,77.817571,631442092.0,7.4,5152.0,The Incredibles,Action,Walt Disney Pictures,1
+340,98000000,7.029308,10017322.0,5.7,136.0,Cutthroat Island,Action,Le Studio Canal+,1
+341,95000000,61.121717,226497209.0,6.0,2010.0,Percy Jackson & the Olympians: The Lightning Thief,Adventure,Ingenious Film Partners,2
+342,90000000,104.121555,589390539.0,6.9,4412.0,Men in Black,Action,Amblin Entertainment,1
+343,90000000,73.575118,497366869.0,7.3,3806.0,Toy Story 2,Animation,Pixar Animation Studios,1
+344,100000000,37.698465,167805466.0,6.3,1165.0,Unstoppable,Action,Twentieth Century Fox Film Corporation,1
+345,90000000,35.814765,347325802.0,6.4,1054.0,Rush Hour 2,Action,New Line Cinema,1
+346,100000000,15.835672,155464351.0,6.3,488.0,What Lies Beneath,Drama,DreamWorks SKG,4
+347,100000000,46.781182,242988466.0,6.5,1747.0,Cloudy with a Chance of Meatballs,Animation,Columbia Pictures,3
+348,90000000,69.457898,886686817.0,6.5,2271.0,Ice Age: Dawn of the Dinosaurs,Animation,Blue Sky Studios,1
+349,90000000,43.348022,188133322.0,7.0,3144.0,The Secret Life of Walter Mitty,Adventure,New Line Cinema,3
+350,92000000,40.20395,264105545.0,5.6,1232.0,Charlie's Angels,Action,Columbia Pictures,3
+351,90000000,63.429157,289847354.0,7.9,4339.0,The Departed,Drama,Vertigo Entertainment,1
+352,90000000,67.427755,304320254.0,7.6,2008.0,Mulan,Animation,Walt Disney Pictures,3
+353,92000000,43.192048,188072649.0,6.5,1667.0,Tropic Thunder,Action,DreamWorks SKG,0
+354,90000000,47.651083,232617430.0,7.2,2434.0,The Girl with the Dragon Tattoo,Thriller,Columbia Pictures,1
+355,90000000,51.881077,366101666.0,6.9,2066.0,Die Hard: With a Vengeance,Action,Twentieth Century Fox Film Corporation,4
+356,90000000,57.834787,524028679.0,7.0,5766.0,Sherlock Holmes,Action,Village Roadshow Pictures,3
+357,100000000,29.608322,94061311.0,5.3,621.0,Ben-Hur,Drama,Paramount Pictures,0
+358,120000000,51.548589,186053725.0,6.7,1224.0,Atlantis: The Lost Empire,Animation,Walt Disney Pictures,1
+359,0,27.867368,233755553.0,5.8,428.0,Alvin and the Chipmunks: The Road Chip,Adventure,Regency Enterprises,0
+360,75000000,38.832842,200276000.0,6.7,1173.0,Valkyrie,Drama,United Artists,3
+361,90000000,40.597344,201596308.0,5.5,1048.0,You Don't Mess with the Zohan,Comedy,Columbia Pictures,4
+362,88000000,140.849495,243637091.0,5.6,2513.0,Pixels,Action,Columbia Pictures,4
+363,100000000,34.035114,235926552.0,6.8,1974.0,A.I. Artificial Intelligence,Drama,DreamWorks SKG,1
+364,90000000,16.302378,182290266.0,5.2,466.0,The Haunted Mansion,Thriller,Walt Disney Pictures,1
+365,90000000,55.249434,171120329.0,7.2,1308.0,Contact,Drama,Warner Bros.,3
+366,95000000,28.200874,190213455.0,5.6,634.0,Hollow Man,Action,Columbia Pictures Corporation,3
+367,80000000,18.69984,162944923.0,6.2,392.0,The Interpreter,Crime,Universal Pictures,2
+368,90000000,40.262261,174578751.0,5.9,1648.0,Percy Jackson: Sea of Monsters,Adventure,1492 Pictures,4
+369,95000000,56.811056,156505388.0,5.5,1418.0,Lara Croft Tomb Raider: The Cradle of Life,Action,Paramount Pictures,3
+370,90000000,51.535701,334901337.0,6.7,3235.0,Now You See Me 2,Action,Summit Entertainment,0
+371,68000000,20.913852,118063304.0,5.9,302.0,The Saint,Thriller,Paramount Pictures,3
+372,92000000,27.166757,143049560.0,6.8,579.0,Spy Game,Action,Universal Pictures,4
+373,90000000,16.058284,60874615.0,5.7,369.0,Mission to Mars,Science Fiction,Spyglass Entertainment,0
+374,90000000,46.200042,484635760.0,6.5,2166.0,Rio,Animation,Blue Sky Studios,3
+375,100000000,24.939295,93700000.0,6.9,963.0,Bicentennial Man,Comedy,Laurence Mark Productions,1
+376,90000000,19.836124,0.0,5.2,376.0,Volcano,Science Fiction,Twentieth Century Fox Film Corporation,0
+377,90000000,15.350451,140807547.0,5.9,290.0,The Devil's Own,Crime,Columbia Pictures,0
+378,100000000,15.625949,35168966.0,6.1,264.0,K-19: The Widowmaker,Drama,Paramount Pictures,3
+379,20000000,31.802807,79114085.0,6.6,650.0,Conan the Barbarian,Adventure,Universal Pictures,3
+380,88000000,24.100863,108539911.0,7.3,616.0,Cinderella Man,Romance,Miramax Films,1
+381,90000000,3.593349,16178959.0,5.4,50.0,The Nutcracker: The Untold Story,Fantasy,Vnesheconombank,4
+382,87000000,14.824166,148336445.0,6.7,216.0,Seabiscuit,Drama,Universal Pictures,4
+383,92000000,32.079995,494471524.0,6.1,950.0,Twister,Action,Universal Pictures,1
+384,90000000,57.739713,429632142.0,7.5,3218.0,Cast Away,Adventure,DreamWorks SKG,3
+385,100000000,37.272385,384335608.0,5.9,1410.0,Happy Feet,Animation,Kennedy Miller Productions,3
+386,75000000,53.213931,288500217.0,7.2,2825.0,The Bourne Supremacy,Action,Universal Pictures,1
+387,85000000,36.38795,315156409.0,6.2,840.0,Air Force One,Action,Columbia Pictures Corporation,1
+388,85000000,60.929352,450717150.0,7.2,3783.0,Ocean's Eleven,Thriller,Village Roadshow Pictures,4
+389,75000000,36.605246,132274484.0,5.6,924.0,The Three Musketeers,Adventure,Impact Pictures,2
+390,85000000,56.257411,358375603.0,6.8,2566.0,Hotel Transylvania,Animation,Columbia Pictures,4
+391,85000000,29.21998,340487652.0,6.6,1449.0,Enchanted,Comedy,Walt Disney Pictures,2
+392,85000000,34.773106,208076205.0,6.3,1345.0,Safe House,Action,Universal Pictures,0
+393,85000000,9.895061,183611771.0,5.1,313.0,102 Dalmatians,Comedy,Walt Disney Pictures,0
+394,75000000,36.743324,152930623.0,5.8,932.0,Tower Heist,Action,Universal Pictures,4
+395,85000000,44.967453,194168700.0,6.7,1225.0,The Holiday,Comedy,Columbia Pictures,1
+396,90000000,41.207568,250649836.0,6.7,1240.0,Enemy of the State,Action,Jerry Bruckheimer Films,1
+397,85000000,16.479851,219103655.0,6.2,360.0,It's Complicated,Comedy,Universal Pictures,1
+398,85000000,42.069993,311312624.0,6.5,1999.0,Ocean's Thirteen,Crime,Village Roadshow Pictures,3
+399,85000000,26.61951,197309027.0,6.1,656.0,Open Season,Adventure,Sony Pictures Animation,2
+400,85000000,80.316463,288747895.0,6.9,4663.0,Divergent,Adventure,Summit Entertainment,1
+401,68000000,41.273567,96976270.0,7.2,999.0,Enemy at the Gates,War,Paramount Pictures,2
+402,85000000,24.107835,80916492.0,6.4,514.0,The Rundown,Adventure,Columbia Pictures,1
+403,85000000,32.044191,137298489.0,6.1,712.0,Last Action Hero,Adventure,Columbia Pictures Corporation,0
+404,85000000,16.595874,162242962.0,7.3,652.0,Memoirs of a Geisha,Drama,DreamWorks SKG,3
+405,85000000,8.282876,158468292.0,6.1,1705.0,The Fast and the Furious: Tokyo Drift,Action,Universal Pictures,1
+406,0,19.83683,0.0,6.7,333.0,Arthur Christmas,Drama,Columbia Pictures,3
+407,90000000,36.069611,142940100.0,6.9,1147.0,Meet Joe Black,Fantasy,Universal Pictures,4
+408,85000000,18.827753,78382433.0,5.5,427.0,Collateral Damage,Action,David Foster Productions,1
+409,0,5.159407,37823676.0,7.3,85.0,All That Jazz,Drama,Twentieth Century Fox Film Corporation,1
+410,85000000,48.126297,183018522.0,5.5,1114.0,Mirror Mirror,Adventure,Relativity Media,1
+411,60000000,38.885195,47664559.0,7.2,2126.0,Scott Pilgrim vs. the World,Action,Universal Pictures,1
+412,60000000,29.211255,74208267.0,5.4,516.0,The Core,Action,Paramount Pictures,1
+413,84000000,17.783361,123307945.0,4.7,332.0,Nutty Professor II: The Klumps,Fantasy,Imagine Entertainment,2
+414,84000000,31.435539,275650703.0,5.4,820.0,Scooby-Doo,Mystery,Atlas Entertainment,1
+415,50000000,57.673932,41037742.0,6.6,1940.0,Dredd,Action,DNA Films,4
+416,82500000,41.176631,237681299.0,6.0,2104.0,Click,Comedy,Original Film,1
+417,8000000,13.661289,21028755.0,6.7,226.0,Creepshow,Horror,Warner Bros.,1
+418,85000000,11.77398,112483764.0,4.9,119.0,Cats & Dogs 2 : The Revenge of Kitty Galore,Comedy,Village Roadshow Pictures,3
+419,85000000,21.218,222231186.0,5.9,1799.0,Jumper,Adventure,Dune Entertainment,1
+420,85000000,58.57976,160388063.0,6.5,1527.0,Hellboy II: The Golden Army,Adventure,Universal Pictures,1
+421,65000000,51.970905,84785914.0,7.3,2023.0,Zodiac,Crime,Paramount Pictures,4
+422,82000000,18.447479,96085477.0,5.7,595.0,The 6th Day,Science Fiction,Phoenix Pictures,1
+423,80000000,109.684788,484572835.0,6.4,3012.0,Bruce Almighty,Fantasy,Universal Pictures,1
+424,80000000,77.580661,274470394.0,6.0,2926.0,The Expendables,Thriller,Millennium Films,4
+425,80000000,75.290998,457696359.0,6.7,2631.0,Mission: Impossible,Adventure,Paramount Pictures,1
+426,75000000,68.550698,691210692.0,6.9,9455.0,The Hunger Games,Science Fiction,Lionsgate,1
+427,80000000,58.040149,254455986.0,6.2,3739.0,The Hangover Part II,Comedy,Legendary Pictures,3
+428,80000000,59.113174,280000000.0,6.6,1673.0,Batman Returns,Action,PolyGram Filmed Entertainment,3
+429,80000000,36.32705,343397247.0,6.3,1074.0,Over the Hedge,Comedy,Pacific Data Images (PDI),3
+430,80000000,55.659988,145771527.0,7.1,1314.0,Lilo & Stitch,Animation,Walt Disney Pictures,4
+431,85000000,14.132583,144000000.0,5.8,288.0,Charlotte's Web,Comedy,Paramount Pictures,4
+432,75000000,34.070054,140464664.0,5.9,855.0,Deep Impact,Action,Paramount Pictures,4
+433,84000000,44.34333,0.0,6.4,1526.0,RED 2,Action,DC Comics,1
+434,82000000,26.065735,190320568.0,6.2,785.0,The Longest Yard,Comedy,Paramount Pictures,0
+435,75000000,23.473004,342695435.0,5.4,484.0,Alvin and the Chipmunks: Chipwrecked,Comedy,Fox 2000 Pictures,1
+436,80000000,45.589568,246984278.0,5.8,1155.0,Grown Ups 2,Comedy,Columbia Pictures,1
+437,80000000,23.496054,230685453.0,6.0,1051.0,Get Smart,Action,Village Roadshow Pictures,4
+438,80000000,16.939441,266728738.0,6.3,410.0,Something's Gotta Give,Drama,Columbia Pictures Corporation,4
+439,80000000,81.914696,294804195.0,7.8,6336.0,Shutter Island,Drama,Paramount Pictures,3
+440,80000000,19.500893,163733697.0,5.3,331.0,Four Christmases,Comedy,New Line Cinema,1
+441,75000000,29.558157,260696994.0,6.0,1333.0,Robots,Animation,Blue Sky Studios,2
+442,80000000,46.075037,245676146.0,6.8,1583.0,Face/Off,Action,Paramount Pictures,4
+443,80000000,23.531721,212874442.0,5.9,901.0,Bedtime Stories,Fantasy,Walt Disney Pictures,3
+444,80000000,49.078546,181001478.0,7.3,1077.0,Road to Perdition,Thriller,DreamWorks SKG,1
+445,80000000,37.02665,214918407.0,6.3,1543.0,Just Go with It,Romance,Columbia Pictures,3
+446,75000000,45.154631,224012234.0,6.5,1270.0,Con Air,Action,Jerry Bruckheimer Films,4
+447,80000000,46.887983,178066569.0,6.3,1018.0,Eagle Eye,Mystery,DreamWorks SKG,1
+448,79000000,24.598479,173013509.0,6.7,533.0,Cold Mountain,Drama,Miramax Films,3
+449,80000000,32.363538,157107755.0,6.6,2164.0,The Book of Eli,Action,Alcon Entertainment,2
+450,80000000,11.50396,177977226.0,5.3,695.0,Flubber,Comedy,Walt Disney Pictures,4
+451,80000000,19.375768,91188905.0,5.2,369.0,The Haunting,Horror,DreamWorks,4
+452,80000000,36.125715,250200000.0,6.5,1288.0,Space Jam,Animation,Warner Bros. Family Entertainment,3
+453,0,25.450534,0.0,5.6,550.0,The Pink Panther,Action,Columbia Pictures,0
+454,80000000,41.890722,233093859.0,5.2,1043.0,The Day the Earth Stood Still,Drama,Twentieth Century Fox Film Corporation,2
+455,75000000,22.179658,136982834.0,6.5,431.0,Conspiracy Theory,Action,Silver Pictures,4
+456,68000000,139.575085,211817906.0,7.4,3946.0,Fury,War,Columbia Pictures,3
+457,70000000,18.264635,164000000.0,5.6,332.0,Six Days Seven Nights,Action,Caravan Pictures,4
+458,80000000,11.187696,201584141.0,5.2,220.0,Yogi Bear,Comedy,De Line Pictures,3
+459,80000000,41.670544,122563539.0,7.4,831.0,Spirit: Stallion of the Cimarron,Western,DreamWorks SKG,4
+460,80000000,27.46264,169852759.0,5.3,498.0,Zookeeper,Comedy,Columbia Pictures,4
+461,80000000,17.455024,136159423.0,5.0,388.0,Lost in Space,Adventure,New Line Cinema,4
+462,80000000,21.394281,96105964.0,6.2,393.0,The Manchurian Candidate,Drama,Paramount Pictures,3
+463,0,0.605645,0.0,8.0,1.0,Déjà Vu,Romance,"Rainbow Film Company, The",4
+464,80000000,61.692197,473226958.0,6.7,1497.0,Hotel Transylvania 2,Animation,Columbia Pictures,4
+465,80000000,14.530946,90874570.0,7.0,292.0,Fantasia 2000,Animation,Walt Disney Pictures,3
+466,80000000,25.978555,123729176.0,5.8,631.0,The Time Machine,Science Fiction,DreamWorks SKG,4
+467,90000000,6.643778,0.0,5.9,208.0,Mighty Joe Young,Action,Walt Disney Pictures,4
+468,102000000,36.788745,147080413.0,6.1,932.0,Swordfish,Action,Village Roadshow Pictures,3
+469,75000000,31.054334,142400065.0,5.9,893.0,The Legend of Zorro,Action,Amblin Entertainment,2
+470,85000000,21.891078,71485043.0,6.8,577.0,What Dreams May Come,Drama,PolyGram Filmed Entertainment,3
+471,85000000,18.335992,0.0,5.2,438.0,Little Nicky,Comedy,New Line Cinema,0
+472,88000000,40.138009,105316267.0,5.6,818.0,The Brothers Grimm,Adventure,The Weinstein Company,4
+473,70000000,44.090535,101371017.0,6.1,1509.0,Mars Attacks!,Comedy,Tim Burton Productions,0
+474,0,3.300061,0.0,6.4,47.0,Evolution,Mystery,Ex Nihilo,2
+475,0,20.632673,43312294.0,6.7,349.0,The Edge,Action,Art Linson Productions,3
+476,80000000,36.664991,122444772.0,5.9,1195.0,Surrogates,Action,Touchstone Pictures,3
+477,80000000,18.26121,34566746.0,6.9,189.0,Thirteen Days,Drama,New Line Cinema,4
+478,80000000,16.681269,159212469.0,5.8,378.0,Daylight,Action,Universal Pictures,0
+479,80000000,10.088006,126546518.0,5.2,133.0,Walking With Dinosaurs,Animation,BBC Worldwide,3
+480,44000000,7.89147,21400000.0,3.0,255.0,Battlefield Earth,Action,Franchise Pictures,3
+481,80000000,16.715631,68514844.0,5.6,297.0,Looney Tunes: Back in Action,Animation,Lonely Film Productions GmbH & Co. KG.,3
+482,80000000,9.357734,53825515.0,5.1,165.0,Nine,Drama,The Weinstein Company,0
+483,80000000,11.22268,19480739.0,5.4,318.0,Timeline,Action,Paramount Pictures,3
+484,80000000,14.564667,17626234.0,6.1,299.0,The Postman,Drama,Tig Productions,3
+485,90000000,11.356079,69131860.0,5.2,305.0,Babe: Pig in the City,Adventure,Kennedy Miller Productions,3
+486,90000000,52.612025,146936910.0,5.7,1316.0,The Last Witch Hunter,Fantasy,Summit Entertainment,1
+487,80000000,13.800656,33463969.0,5.4,267.0,Red Planet,Thriller,Village Roadshow Pictures,0
+488,86000000,27.097932,107944236.0,6.0,639.0,Arthur and the Invisibles,Adventure,Canal Plus,2
+489,0,10.706613,19406406.0,7.3,111.0,Oceans,Documentary,Pathé Films,0
+490,80000000,7.342892,5989640.0,4.8,111.0,A Sound of Thunder,Thriller,Epsilon Motion Pictures,4
+491,130000000,50.561849,117831631.0,5.2,1267.0,Pompeii,Action,Impact Pictures,3
+492,8000000,0.719996,0.0,5.3,9.0,Top Cat Begins,Comedy,Anima Estudios,3
+493,60000000,59.248437,313542341.0,7.7,3009.0,A Beautiful Mind,Drama,Imagine Entertainment,3
+494,45000000,90.457886,788241776.0,8.0,5376.0,The Lion King,Family,Walt Disney Pictures,3
+495,79000000,40.723459,355692760.0,5.8,1030.0,Journey 2: The Mysterious Island,Adventure,New Line Cinema,4
+496,78000000,41.247402,248384621.0,6.4,915.0,Cloudy with a Chance of Meatballs 2,Animation,Columbia Pictures,2
+497,78000000,10.083905,209196298.0,6.7,1115.0,Red Dragon,Crime,Universal Pictures,4
+498,100000000,16.759252,108103450.0,6.5,318.0,Hidalgo,Western,Casey Silver Productions,1
+499,79000000,22.132418,149673788.0,4.1,604.0,Jack and Jill,Comedy,Columbia Pictures,2
+500,76000000,10.520961,236350661.0,6.2,2028.0,2 Fast 2 Furious,Action,Mikona Productions GmbH & Co. KG,0
+501,64000000,35.384423,97571250.0,7.6,756.0,The Little Prince,Adventure,Onyx Films,1
+502,80000000,15.673154,15071514.0,5.7,359.0,The Invasion,Science Fiction,Village Roadshow Pictures,4
+503,76000000,8.981427,35134820.0,3.9,87.0,The Adventures of Rocky & Bullwinkle,Action,Universal Pictures,3
+504,75000000,31.482872,875958308.0,5.9,3462.0,The Secret Life of Pets,Animation,Universal Pictures,2
+505,78000000,47.436675,179265204.0,5.7,1155.0,The League of Extraordinary Gentlemen,Fantasy,Twentieth Century Fox Film Corporation,4
+506,76000000,136.886704,970761885.0,7.0,4637.0,Despicable Me 2,Animation,Universal Pictures,3
+507,75000000,60.442593,816969268.0,6.7,3260.0,Independence Day,Action,Twentieth Century Fox Film Corporation,0
+508,73000000,2.502487,229074524.0,6.2,2487.0,The Lost World: Jurassic Park,Adventure,Universal Pictures,2
+509,75000000,48.110909,532680671.0,6.6,3237.0,Madagascar,Family,DreamWorks SKG,4
+510,76000000,35.387874,69959751.0,7.4,2071.0,Children of Men,Drama,Universal Pictures,4
+511,75000000,4.66891,296339527.0,6.8,4097.0,X-Men,Adventure,Twentieth Century Fox Film Corporation,0
+512,75000000,73.82289,258270008.0,6.4,2528.0,Wanted,Action,Universal Pictures,3
+513,75000000,51.469576,335062621.0,6.9,1456.0,The Rock,Action,Hollywood Pictures,0
+514,80000000,85.115058,660940780.0,6.5,2951.0,Ice Age: The Meltdown,Animation,Blue Sky Studios,4
+515,75000000,61.437586,196482882.0,6.6,2105.0,50 First Dates,Comedy,Columbia Pictures Corporation,2
+516,50000000,31.160542,90450008.0,6.5,709.0,Hairspray,Family,New Line Cinema,0
+517,80000000,15.761384,78000586.0,4.7,183.0,Exorcist: The Beginning,Horror,Morgan Creek Productions,0
+518,75000000,17.561955,0.0,4.3,318.0,Inspector Gadget,Action,Walt Disney Pictures,4
+519,75000000,71.124686,117698894.0,7.3,5487.0,Now You See Me,Thriller,Summit Entertainment,4
+520,80000000,38.864027,271430189.0,6.0,1705.0,Grown Ups,Comedy,Columbia Pictures,2
+521,60000000,57.753914,219417255.0,7.0,1910.0,The Terminal,Comedy,DreamWorks SKG,1
+522,35000000,13.25753,73034460.0,5.7,202.0,Hotel for Dogs,Comedy,DreamWorks SKG,3
+523,75000000,13.318744,215663859.0,5.9,283.0,Vertical Limit,Action,Columbia Pictures Corporation,4
+524,75000000,18.70031,119000410.0,6.5,338.0,Charlie Wilson's War,Comedy,Universal Pictures,1
+525,75000000,47.094369,367275019.0,5.8,1557.0,Shark Tale,Animation,DreamWorks SKG,0
+526,70000000,14.486311,154937680.0,6.6,284.0,Dreamgirls,Drama,Paramount Pictures,0
+527,53000000,18.61472,95226116.0,5.4,292.0,Be Cool,Comedy,Double Feature Films,2
+528,70000000,29.035222,130358911.0,6.9,696.0,Munich,Drama,DreamWorks SKG,1
+529,70000000,27.055085,85632458.0,6.4,573.0,Tears of the Sun,Action,Columbia Pictures,1
+530,75000000,23.004607,98159963.0,5.7,772.0,Killers,Action,Katalyst Films,1
+531,75000000,48.744209,108145109.0,7.1,2265.0,The Man from U.N.C.L.E.,Comedy,Davis Entertainment,1
+532,80000000,14.209329,55041367.0,5.8,369.0,Spanglish,Comedy,Gracie Films,4
+533,75000000,36.368839,140175006.0,6.3,874.0,Monster House,Animation,Columbia Pictures,2
+534,75000000,24.353302,67631903.0,6.2,302.0,Bandits,Action,Cheyenne Enterprises,1
+535,55000000,19.143321,127600435.0,5.9,311.0,First Knight,Action,Columbia Pictures Corporation,4
+536,75000000,13.327372,0.0,6.4,197.0,Anna and the King,Drama,Fox 2000 Pictures,1
+537,75000000,37.917002,226904017.0,5.7,880.0,Immortals,Fantasy,Virgin Produced,1
+538,52000000,23.663713,77944725.0,6.2,512.0,Hostage,Mystery,Miramax Films,2
+539,75000000,14.44381,36754634.0,6.3,313.0,Titan A.E.,Animation,Twentieth Century Fox Film Corporation,1
+540,75000000,10.605084,51142659.0,5.0,166.0,Hollywood Homicide,Action,Columbia Pictures,4
+541,75000000,11.873856,14567883.0,6.1,221.0,Soldier,Action,Impact Pictures,3
+542,0,12.708963,5802422.0,5.8,282.0,Carriers,Action,Paramount Vantage,1
+543,75000000,8.098369,5409517.0,4.3,78.0,Monkeybone,Adventure,Twentieth Century Fox Film Corporation,1
+544,45000000,20.374308,21009180.0,5.7,276.0,Flight of the Phoenix,Action,Twentieth Century Fox Film Corporation,4
+545,75000000,42.006908,248118121.0,6.9,1946.0,Unbreakable,Science Fiction,Limited Edition Productions Inc.,0
+546,74000000,875.581305,1156730962.0,6.4,4571.0,Minions,Family,Universal Pictures,4
+547,82000000,39.127082,89792502.0,5.9,1623.0,Sucker Punch,Action,Legendary Pictures,0
+548,73000000,20.790703,103891409.0,5.8,327.0,Snake Eyes,Crime,Paramount Pictures,4
+549,75000000,18.65988,13100000.0,5.8,476.0,Sphere,Science Fiction,Punch Productions,1
+550,73000000,45.720894,349779543.0,5.9,1022.0,The Angry Birds Movie,Family,Columbia Pictures,4
+551,70000000,21.789615,111231041.0,5.4,444.0,Fool's Gold,Romance,De Line Pictures,2
+552,75000000,20.199057,61458982.0,5.7,390.0,Funny People,Comedy,Columbia Pictures,2
+553,70000000,26.123705,86658558.0,6.5,513.0,The Kingdom,Thriller,Universal Pictures,3
+554,72500000,12.599836,162966177.0,6.2,491.0,Talladega Nights: The Ballad of Ricky Bobby,Comedy,Columbia Pictures,3
+555,70000000,13.543053,176104344.0,4.9,410.0,Dr. Dolittle 2,Comedy,Twentieth Century Fox Film Corporation,3
+556,72000000,60.722162,210000000.0,7.7,3336.0,Braveheart,Action,Icon Entertainment International,2
+557,72000000,32.227223,96889998.0,6.6,765.0,Jarhead,Drama,Universal Pictures,3
+558,75000000,46.875375,527068851.0,6.9,2264.0,The Simpsons Movie,Animation,Gracie Films,1
+559,72000000,11.215702,37317558.0,6.6,188.0,The Majestic,Drama,Village Roadshow Pictures,0
+560,94000000,8.468586,54744738.0,4.5,179.0,Driven,Action,Epsilon Motion Pictures,0
+561,74500000,8.884318,62172050.0,6.9,180.0,Two Brothers,Adventure,Pathé Renn Productions,0
+562,60000000,27.491891,256697520.0,6.2,1071.0,The Village,Drama,Scott Rudin Productions,4
+563,71000000,21.462935,294456605.0,5.4,686.0,Doctor Dolittle,Comedy,Twentieth Century Fox Film Corporation,3
+564,72000000,28.848187,408247917.0,6.4,1599.0,Signs,Drama,"Kennedy/Marshall Company, The",3
+565,150000000,47.320801,919838758.0,6.7,2988.0,Shrek 2,Adventure,DreamWorks SKG,3
+566,120000000,82.643036,461983149.0,6.6,3877.0,Cars,Animation,Walt Disney Pictures,4
+567,70000000,20.230535,309457509.0,5.7,455.0,Runaway Bride,Comedy,Paramount Pictures,3
+568,70000000,46.217769,277448382.0,5.8,1424.0,xXx,Action,Columbia Pictures,4
+569,74000000,36.952268,311594032.0,5.8,719.0,The SpongeBob Movie: Sponge Out of Water,Animation,Paramount Pictures,0
+570,80000000,16.411345,309492681.0,6.4,470.0,Ransom,Action,Touchstone Pictures,3
+571,70000000,72.595961,319131050.0,7.9,6430.0,Inglourious Basterds,Drama,Universal Pictures,4
+572,70000000,33.648404,300854823.0,6.6,1532.0,Hook,Adventure,Amblin Entertainment,4
+573,70000000,57.69847,240031094.0,6.6,1896.0,Die Hard 2,Action,Twentieth Century Fox Film Corporation,4
+574,80000000,34.052253,116643346.0,5.8,770.0,S.W.A.T.,Action,Original Film,3
+575,68000000,27.299301,203388341.0,6.5,1078.0,Vanilla Sky,Drama,Paramount Pictures,0
+576,75000000,20.219385,42285169.0,5.3,409.0,Lady in the Water,Drama,Legendary Pictures,0
+577,70000000,42.957216,171183863.0,5.5,1217.0,AVP: Alien vs. Predator,Adventure,Impact Pictures,3
+578,75000000,29.412262,443140005.0,5.4,666.0,Alvin and the Chipmunks: The Squeakquel,Comedy,Regency Enterprises,3
+579,75000000,19.708731,114660784.0,6.7,521.0,We Were Soldiers,Action,Icon Entertainment International,4
+580,70000000,59.428223,161025640.0,6.2,2981.0,Olympus Has Fallen,Action,Nu Image Films,3
+581,70000000,19.711951,118000000.0,6.3,391.0,Star Trek: Insurrection,Science Fiction,Paramount Pictures,1
+582,70000000,49.199234,202466756.0,5.5,1448.0,Battle: Los Angeles,Action,Columbia Pictures,1
+583,70000000,46.199482,122919055.0,7.6,1994.0,Big Fish,Adventure,Columbia Pictures,2
+584,0,13.758526,0.0,6.0,216.0,Wolf,Fantasy,Columbia Pictures,4
+585,66000000,29.505574,177584879.0,7.0,992.0,War Horse,Drama,DreamWorks SKG,2
+586,70000000,43.873266,154984035.0,5.8,1523.0,The Monuments Men,War,Columbia Pictures,3
+587,70000000,24.961625,90000098.0,7.1,808.0,The Abyss,Adventure,Twentieth Century Fox Film Corporation,2
+588,70000000,23.25645,134748021.0,5.8,493.0,Wall Street: Money Never Sleeps,Drama,Twentieth Century Fox Film Corporation,4
+589,70000000,64.457947,215529201.0,6.2,2389.0,Dracula Untold,Horror,Universal Pictures,0
+590,70000000,20.089933,116672912.0,6.0,352.0,The Siege,Drama,Twentieth Century Fox Film Corporation,4
+591,70000000,48.032734,135560026.0,7.1,1184.0,Stardust,Adventure,Paramount Pictures,3
+592,70000000,16.92991,131457682.0,7.0,630.0,Seven Years in Tibet,Adventure,TriStar Pictures,0
+593,70000000,14.780634,67112664.0,5.2,304.0,The Dilemma,Comedy,Imagine Entertainment,4
+594,70000000,14.086292,65977295.0,5.4,228.0,Bad Company,Action,Jerry Bruckheimer Films,2
+595,60000000,29.261348,55987321.0,5.0,609.0,Doom,Adventure,Di Bonaventura Pictures,1
+596,70000000,13.267631,33561137.0,5.2,269.0,I Spy,Action,Columbia Pictures Corporation,2
+597,70000000,58.401204,160112671.0,6.1,1862.0,Underworld: Awakening,Fantasy,Lakeshore Entertainment,4
+598,75000000,23.515938,59418613.0,6.0,385.0,Rock of Ages,Comedy,New Line Cinema,1
+599,70000000,14.244518,32287044.0,5.9,241.0,Hart's War,Drama,David Foster Productions,4
+600,66000000,29.501489,57777106.0,6.1,695.0,Killer Elite,Action,Current Entertainment,4
+601,0,9.306253,0.0,3.4,106.0,Rollerball,Action,Atlas Entertainment,4
+602,70000000,8.37378,19924033.0,4.3,97.0,Ballistic: Ecks vs. Sever,Action,Epsilon Motion Pictures,4
+603,70000000,10.930537,19870567.0,5.5,179.0,Hard Rain,Thriller,Paramount Pictures,0
+604,75000000,10.54544,13596911.0,5.9,228.0,Osmosis Jones,Adventure,Conundrum Entertainment,4
+605,70000000,6.682006,18662027.0,5.9,43.0,Legends of Oz: Dorothy's Return,Animation,Prana Animation Studios,1
+606,70000000,46.832372,17752940.0,5.1,826.0,Blackhat,Crime,Universal Pictures,2
+607,70000000,24.664776,57958696.0,5.7,439.0,Sky Captain and the World of Tomorrow,Mystery,Paramount Pictures,3
+608,70000000,13.483387,38629478.0,4.6,180.0,Basic Instinct 2,Crime,Intermedia Films,3
+609,50000000,44.478043,122915111.0,6.7,1659.0,Escape Plan,Action,Summit Entertainment,2
+610,70000000,25.020428,61279452.0,4.4,533.0,The Legend of Hercules,Action,Millennium Films,1
+611,68000000,22.392544,193000000.0,5.9,437.0,The Sum of All Fears,Thriller,Paramount Pictures,3
+612,68000000,107.069763,698491347.0,5.8,2301.0,The Twilight Saga: Eclipse,Adventure,Summit Entertainment,0
+613,68000000,22.572323,71069884.0,6.7,423.0,The Score,Action,Paramount Pictures,0
+614,69000000,113.858273,543513985.0,7.1,6478.0,Despicable Me,Animation,Universal Pictures,1
+615,60000000,10.004564,35431113.0,5.4,222.0,Money Train,Action,Columbia Pictures,0
+616,68000000,68.734513,217022588.0,6.2,2463.0,Ted 2,Comedy,Universal Pictures,1
+617,70000000,18.888806,39041505.0,6.9,395.0,Agora,Adventure,Himenóptero,0
+618,68000000,12.948627,29762011.0,5.7,250.0,Mystery Men,Adventure,Universal Pictures,3
+619,36000000,27.11589,83160734.0,5.4,611.0,Hall Pass,Comedy,New Line Cinema,4
+620,90000000,26.153669,60289912.0,7.3,481.0,The Insider,Drama,Spyglass Entertainment,1
+621,80000000,28.223664,52099090.0,6.3,588.0,The Finest Hours,Action,Walt Disney Pictures,1
+622,70000000,37.507136,113280098.0,6.5,895.0,Body of Lies,Action,Scott Free Productions,2
+623,69000000,11.023691,86387857.0,5.5,531.0,Dinner for Schmucks,Comedy,Paramount Pictures,1
+624,69000000,38.634767,112265139.0,5.5,1269.0,Abraham Lincoln: Vampire Hunter,Action,Twentieth Century Fox Film Corporation,1
+625,66000000,25.877794,212404396.0,6.0,602.0,Entrapment,Romance,Fountainbridge Films,1
+626,66000000,18.59991,189198313.0,6.6,488.0,The X Files,Mystery,Twentieth Century Fox Film Corporation,4
+627,67000000,12.282911,25303038.0,5.0,207.0,The Last Legion,Action,Ingenious Film Partners,1
+628,70000000,76.041867,481840909.0,7.9,5048.0,Saving Private Ryan,Drama,Paramount Pictures,2
+629,66000000,54.81489,203277636.0,6.1,1520.0,Need for Speed,Action,DreamWorks SKG,2
+630,70000000,31.39165,374111707.0,6.1,992.0,What Women Want,Comedy,Paramount Pictures,2
+631,59000000,99.561972,383257136.0,7.1,3857.0,Ice Age,Animation,Twentieth Century Fox Film Corporation,2
+632,68000000,26.792794,75715436.0,5.3,567.0,Dreamcatcher,Drama,Village Roadshow Pictures,4
+633,65000000,36.307296,275293450.0,6.7,1429.0,Lincoln,History,DreamWorks,1
+634,63000000,104.309993,463517383.0,7.9,8907.0,The Matrix,Action,Village Roadshow Pictures,1
+635,52000000,68.140214,355237933.0,7.3,1599.0,Apollo 13,Drama,Imagine Entertainment,1
+636,65000000,14.646884,172855065.0,5.5,297.0,The Santa Clause 2,Fantasy,Walt Disney Pictures,1
+637,61000000,48.356214,441809770.0,7.1,1884.0,Les Misérables,Drama,Universal Pictures,2
+638,65000000,28.540267,250821495.0,6.3,838.0,You've Got Mail,Comedy,Warner Bros.,1
+639,65000000,22.977983,128107642.0,6.5,1062.0,Step Brothers,Comedy,Columbia Pictures,1
+640,95000000,31.086791,250288523.0,6.3,1183.0,The Mask of Zorro,Action,Amblin Entertainment,2
+641,65000000,43.865294,211780824.0,6.2,1685.0,Due Date,Comedy,Legendary Pictures,1
+642,65000000,43.055253,163442937.0,7.3,1400.0,Unbroken,Drama,Legendary Pictures,2
+643,65000000,15.772081,128884132.0,6.3,403.0,Space Cowboys,Action,Village Roadshow Pictures,4
+644,70000000,26.19909,255000211.0,6.1,588.0,Cliffhanger,Action,TriStar Pictures,1
+645,50000000,22.769108,150270147.0,5.7,453.0,Broken Arrow,Action,Twentieth Century Fox Film Corporation,1
+646,65000000,18.281798,69700000.0,6.0,238.0,The Kid,Fantasy,Walt Disney Pictures,1
+647,63000000,24.697533,162945894.0,5.9,447.0,World Trade Center,Drama,Paramount Pictures,1
+648,65000000,19.718544,0.0,6.5,393.0,Mona Lisa Smile,Drama,Columbia Pictures,3
+649,65000000,31.349143,179379533.0,5.9,1743.0,The Dictator,Comedy,Paramount Pictures,4
+650,65000000,27.870312,162091208.0,7.1,1234.0,Eyes Wide Shut,Mystery,Hobby Films,1
+651,65000000,33.439187,133821816.0,6.0,466.0,Annie,Comedy,Columbia Pictures,4
+652,50100000,59.634029,153962963.0,6.7,2542.0,Focus,Romance,Kramer & Sigman Films,3
+653,65000000,38.994297,156974557.0,5.9,1389.0,This Means War,Action,Dune Entertainment,3
+654,65000000,49.660055,128905366.0,5.7,1252.0,Blade: Trinity,Science Fiction,New Line Cinema,2
+655,4200000,11.743085,38376497.0,6.4,215.0,Red Dawn,Action,United Artists,1
+656,65000000,9.110247,0.0,6.1,94.0,Primary Colors,Comedy,Universal Pictures,0
+657,65000000,6.227675,240159255.0,5.6,1600.0,Resident Evil: Retribution,Action,Davis-Films,2
+658,45000000,42.57877,73762516.0,6.0,1175.0,Death Race,Action,Universal Pictures,1
+659,65000000,15.858629,89456761.0,6.5,314.0,The Long Kiss Goodnight,Crime,New Line Cinema,1
+660,65000000,14.866901,0.0,6.0,208.0,Proof of Life,Action,Castle Rock Entertainment,4
+661,65000000,15.194239,64321501.0,6.1,779.0,Zathura: A Space Adventure,Family,Columbia Pictures Corporation,1
+662,63000000,146.757391,100853753.0,8.3,9413.0,Fight Club,Drama,Regency Enterprises,4
+663,65000000,8.629665,43545364.0,6.7,186.0,We Are Marshall,Drama,Legendary Pictures,1
+664,65000000,16.803457,17218080.0,5.4,269.0,Hudson Hawk,Action,TriStar Pictures,4
+665,65000000,2.952595,0.0,4.9,52.0,Lucky Numbers,Action,Paramount Pictures,4
+666,65000000,31.324734,71154592.0,5.0,687.0,"I, Frankenstein",Horror,Lakeshore Entertainment,4
+667,50000000,20.415572,42093706.0,6.7,274.0,Oliver Twist,Crime,R.P. Productions,4
+668,43000000,28.613892,56681566.0,4.8,575.0,Elektra,Action,Twentieth Century Fox Film Corporation,4
+669,65000000,85.428395,39407616.0,6.3,1286.0,Sin City: A Dame to Kill For,Crime,Miramax Films,4
+670,64000000,4.137237,74608570.0,5.3,63.0,Random Hearts,Drama,Columbia Pictures,3
+671,55000000,60.246978,203427584.0,6.7,1772.0,Everest,Adventure,Universal Pictures,3
+672,50000000,42.551902,132180323.0,7.1,1165.0,Perfume: The Story of a Murderer,Crime,Davis-Films,4
+673,63000000,40.137264,296655431.0,5.9,979.0,Austin Powers in Goldmember,Comedy,New Line Cinema,3
+674,65000000,24.857079,44091067.0,6.1,409.0,Astro Boy,Animation,The Weinstein Company,1
+675,63000000,40.413191,920100000.0,7.6,4856.0,Jurassic Park,Adventure,Universal Pictures,4
+676,63000000,13.859307,25052000.0,6.5,202.0,Wyatt Earp,Drama,Tig Productions,2
+677,62000000,18.832471,215887717.0,6.4,386.0,Clear and Present Danger,Action,Paramount Pictures,4
+678,65000000,9.568884,121545703.0,5.9,145.0,Dragon Blade,Action,Shanghai Film Group,4
+679,64000000,12.421504,101595121.0,5.3,261.0,Little Man,Comedy,Revolution Studios,4
+680,62000000,18.096884,127666415.0,6.1,340.0,U-571,Action,Universal Pictures,1
+681,62000000,11.056763,107879496.0,6.5,195.0,The American President,Comedy,Columbia Pictures,0
+682,62000000,13.218008,41819064.0,4.3,242.0,The Love Guru,Comedy,Paramount Pictures,0
+683,62000000,11.262655,18720175.0,5.8,178.0,3000 Miles to Graceland,Action,Franchise Pictures,4
+684,44000000,68.717016,155760117.0,7.6,4274.0,The Hateful Eight,Crime,Double Feature Films,4
+685,53000000,19.412028,0.0,5.9,569.0,Blades of Glory,Action,DreamWorks,2
+686,63000000,16.791058,183953723.0,5.5,331.0,Hop,Animation,Universal Pictures,3
+687,65000000,65.197968,422610419.0,7.0,4997.0,300,Action,Virtual Studios,4
+688,80000000,32.829538,516642939.0,6.1,1373.0,Meet the Fockers,Comedy,DreamWorks SKG,0
+689,60000000,30.951203,244082376.0,6.9,1343.0,Marley & Me,Comedy,Sunswept Entertainment,4
+690,60000000,103.698022,284600000.0,8.2,4048.0,The Green Mile,Fantasy,Castle Rock Entertainment,0
+691,0,31.719463,253625427.0,5.6,648.0,Wild Hogs,Action,Wild Hogs Productions,4
+692,150000000,47.973995,314432665.0,5.6,944.0,Chicken Little,Animation,Walt Disney Pictures,4
+693,61000000,143.041543,369330363.0,7.9,5862.0,Gone Girl,Mystery,Twentieth Century Fox Film Corporation,4
+694,60000000,86.476817,214034224.0,7.3,3583.0,The Bourne Identity,Action,Universal Pictures,3
+695,58000000,59.824565,352194034.0,6.6,1174.0,GoldenEye,Adventure,United Artists,0
+696,60000000,18.345613,149705852.0,6.1,205.0,The General's Daughter,Crime,Paramount Pictures,4
+697,60000000,56.488027,264118201.0,7.8,4537.0,The Truman Show,Comedy,Paramount Pictures,0
+698,70000000,29.464852,218613188.0,6.8,817.0,The Prince of Egypt,Adventure,DreamWorks SKG,4
+699,60000000,18.106021,164433867.0,5.6,506.0,Daddy Day Care,Comedy,Columbia Pictures,0
+700,61000000,42.881415,131940411.0,6.6,1589.0,2 Guns,Action,Universal Studios,0
+701,60000000,18.735024,93375151.0,5.0,352.0,Cats & Dogs,Comedy,Village Roadshow Pictures,2
+702,60000000,62.766854,176070171.0,6.6,1919.0,The Italian Job,Action,De Line Pictures,3
+703,60000000,24.153567,93354918.0,5.9,487.0,Two Weeks Notice,Romance,Village Roadshow Pictures,0
+704,60000000,41.515702,171757863.0,6.0,1272.0,Antz,Adventure,DreamWorks SKG,0
+705,70000000,26.676487,171844840.0,5.3,588.0,Couples Retreat,Comedy,Universal Pictures,3
+706,60000000,16.278022,157920733.0,5.9,353.0,Days of Thunder,Adventure,Paramount Pictures,4
+707,60000000,18.831023,129181830.0,5.7,526.0,Cheaper by the Dozen 2,Comedy,Twentieth Century Fox Film Corporation,3
+708,61000000,113.161483,311256926.0,6.4,3040.0,Maze Runner: The Scorch Trials,Action,Gotham Group,0
+709,60000000,28.800112,204594016.0,5.8,636.0,Eat Pray Love,Drama,Columbia Pictures,3
+710,60000000,19.705489,0.0,6.5,521.0,The Family Man,Comedy,Universal Pictures,3
+711,58000000,41.430245,71664962.0,6.6,2808.0,RED,Action,DC Comics,3
+712,55000000,23.127561,100230832.0,6.8,422.0,Any Given Sunday,Drama,Donners' Company,1
+713,60000000,12.867352,186883563.0,6.7,292.0,The Horse Whisperer,Drama,Wildwood Enterprises,4
+714,65000000,44.815022,217764291.0,7.0,1451.0,Collateral,Drama,Paramount Pictures,4
+715,60000000,37.537093,165333180.0,5.3,779.0,The Scorpion King,Action,Universal Pictures,0
+716,60000000,10.99991,74541707.0,6.2,207.0,Ladder 49,Drama,Casey Silver Productions,4
+717,60000000,56.868399,218340595.0,6.3,2998.0,Jack Reacher,Crime,Paramount Pictures,3
+718,60000000,22.991269,73648228.0,5.6,604.0,Deep Blue Sea,Action,Village Roadshow Pictures,4
+719,60000000,15.798622,0.0,6.7,247.0,This Is It,Music,Columbia Pictures,3
+720,60000000,38.820858,137551594.0,6.2,1325.0,Contagion,Drama,Double Feature Films,3
+721,0,10.292864,0.0,4.3,203.0,Kangaroo Jack,Comedy,Castle Rock Entertainment,0
+722,60000000,51.146047,124596398.0,7.3,1386.0,Coraline,Animation,Focus Features,0
+723,60000000,20.501582,163403799.0,4.9,950.0,The Happening,Thriller,Spyglass Entertainment,3
+724,70000000,45.299089,130293714.0,7.3,1553.0,Man on Fire,Action,Regency Enterprises,3
+725,50000000,4.280619,61112916.0,4.5,137.0,The Shaggy Dog,Comedy,Walt Disney Pictures,0
+726,60000000,28.848842,170268750.0,5.6,644.0,Starsky & Hutch,Comedy,Weed Road Pictures,3
+727,60000000,22.501041,129832389.0,5.5,575.0,Jingle All the Way,Family,Twentieth Century Fox Film Corporation,0
+728,66000000,47.479755,99318987.0,6.5,2225.0,Hellboy,Fantasy,Revolution Studios,2
+729,70000000,10.147321,56702901.0,6.1,109.0,A Civil Action,Drama,Paramount Pictures,4
+730,60000000,39.539045,107139399.0,6.7,789.0,ParaNorman,Family,Focus Features,0
+731,60000000,19.747459,159330280.0,6.1,527.0,The Jackal,Action,Universal Pictures,0
+732,60000000,29.018826,96269812.0,5.9,581.0,Paycheck,Action,Paramount Pictures,0
+733,60000000,4.801849,0.0,5.9,50.0,Up Close & Personal,Drama,Cinergi Pictures Entertainment,1
+734,60000000,16.493576,50877145.0,5.8,258.0,The Tale of Despereaux,Adventure,Larger Than Life Productions,3
+735,0,21.549232,0.0,5.3,483.0,The Tuxedo,Thriller,DreamWorks SKG,0
+736,60000000,13.080725,104324083.0,5.6,210.0,Under Siege 2: Dark Territory,Action,Regency Enterprises,4
+737,60000000,42.538258,50549107.0,5.9,1173.0,Jack Ryan: Shadow Recruit,Action,Paramount Pictures,0
+738,60000000,29.876507,101134059.0,6.4,1581.0,Joy,Drama,Fox 2000 Pictures,0
+739,60000000,61.849521,205754447.0,5.8,1621.0,London Has Fallen,Action,Millennium Films,0
+740,70000000,37.44963,162000000.0,5.9,1365.0,Alien: Resurrection,Science Fiction,Twentieth Century Fox Film Corporation,3
+741,61000000,37.378081,95696996.0,6.9,1462.0,Shooter,Action,Paramount Pictures,1
+742,60000000,30.656345,108255770.0,6.6,668.0,The Boxtrolls,Animation,Laika Entertainment,0
+743,75000000,15.142701,46683377.0,6.3,338.0,Practical Magic,Drama,Village Roadshow Pictures,1
+744,60000000,59.547928,469160692.0,7.5,3070.0,The Lego Movie,Adventure,Village Roadshow Pictures,4
+745,0,19.998581,0.0,5.3,425.0,Miss Congeniality 2: Armed and Fabulous,Action,Village Roadshow Pictures,3
+746,60000000,27.615108,43061982.0,6.0,669.0,Reign of Fire,Adventure,The Zanuck Company,1
+747,60000000,29.041198,105200903.0,6.2,1778.0,Gangster Squad,Crime,Village Roadshow Pictures,4
+748,60000000,25.293538,62357900.0,4.6,524.0,Year One,Comedy,Columbia Pictures,4
+749,60000000,23.85119,122233971.0,7.0,1125.0,Invictus,Drama,Spyglass Entertainment,0
+750,60000000,21.685719,87784194.0,6.7,484.0,State of Play,Action,Universal Pictures,0
+751,78146652,13.630049,60000000.0,5.7,201.0,Duplicity,Romance,Universal Pictures,1
+752,65000000,6.80692,36850101.0,5.1,80.0,My Favorite Martian,Comedy,Walt Disney Pictures,2
+753,60000000,15.352807,77920346.0,5.8,225.0,The Sentinel,Action,Twentieth Century Fox Film Corporation,4
+754,70000000,23.661071,104945765.0,5.6,556.0,Planet 51,Science Fiction,TriStar Pictures,0
+755,60000000,21.605533,67312826.0,6.1,479.0,Star Trek: Nemesis,Science Fiction,Paramount Pictures,4
+756,60000000,22.620125,119940815.0,5.8,391.0,Intolerable Cruelty,Crime,Imagine Entertainment,0
+757,0,18.587114,0.0,6.6,366.0,Trouble with the Curve,Drama,Malpaso Productions,1
+758,80000000,24.657931,74901339.0,6.2,487.0,Edge of Darkness,Crime,Icon Productions,0
+759,60000000,12.621769,33956608.0,5.8,130.0,The Relic,Horror,Paramount Pictures,4
+760,60000000,21.08952,55003135.0,5.7,380.0,Analyze That,Comedy,Village Roadshow Pictures,0
+761,60000000,18.380176,73174566.0,5.9,375.0,Righteous Kill,Action,Grosvenor Park Media Ltd.,4
+762,60000000,18.877795,0.0,6.0,368.0,Mercury Rising,Action,Imagine Entertainment,1
+763,60000000,17.299333,31720158.0,6.6,234.0,The Soloist,Drama,DreamWorks,3
+764,80000000,16.848899,39459427.0,6.3,251.0,The Legend of Bagger Vance,Fantasy,DreamWorks SKG,4
+765,60000000,21.547446,47383689.0,7.4,797.0,Almost Famous,Drama,Columbia Pictures,2
+766,0,16.930969,141702264.0,5.1,464.0,Garfield: A Tail of Two Kitties,Animation,Twentieth Century Fox Film Corporation,4
+767,60000000,36.689223,71073932.0,4.7,549.0,xXx: State of the Union,Action,Original Film,0
+768,60000000,28.350927,78309131.0,5.4,692.0,Priest,Action,Screen Gems,0
+769,60000000,18.815442,26288320.0,6.6,372.0,Sinbad: Legend of the Seven Seas,Family,DreamWorks Animation,3
+770,60000000,29.787135,26673242.0,6.5,742.0,Event Horizon,Horror,Paramount Pictures,2
+771,60000000,8.927137,52322400.0,6.1,204.0,Dragonfly,Drama,Universal Pictures,3
+772,50000000,15.213484,49111202.0,5.7,287.0,The Black Dahlia,Drama,Universal Pictures,0
+773,60000000,13.155999,17800000.0,6.3,271.0,Flyboys,Action,Ingenious Film Partners,0
+774,72000000,15.433244,27642707.0,7.0,285.0,The Last Castle,Action,DreamWorks SKG,0
+775,90000000,5.762037,14828081.0,4.9,109.0,Supernova,Horror,United Artists,3
+776,60000000,22.736038,30800231.0,6.0,487.0,Winter's Tale,Drama,Village Roadshow Pictures,0
+777,60000000,45.514031,90565421.0,6.2,1602.0,The Mortal Instruments: City of Bones,Action,Constantin Film Produktion,1
+778,60000000,18.676291,50650079.0,5.0,371.0,Meet Dave,Comedy,Twentieth Century Fox Film Corporation,4
+779,30000000,14.376463,25473093.0,5.3,274.0,Dark Water,Drama,Vertigo Entertainment,2
+780,80000000,14.298297,0.0,5.7,166.0,Edtv,Comedy,Imagine Entertainment,0
+781,60000000,27.018886,57490374.0,6.0,592.0,Inkheart,Adventure,New Line Cinema,1
+782,60000000,14.84856,39031337.0,4.7,320.0,The Spirit,Action,DC Comics,3
+783,60000000,52.417529,30418560.0,5.4,1055.0,Mortdecai,Comedy,Lionsgate,1
+784,60000000,15.406173,0.0,4.1,224.0,In the Name of the King: A Dungeon Siege Tale,Adventure,Boll Kino Beteiligungs GmbH & Co. KG,4
+785,35000000,6.523472,0.0,6.7,110.0,Beyond Borders,Drama,Mandalay Pictures,1
+786,68490000,4.72629,193677158.0,6.0,24.0,The Monkey King 2,Action,Filmko Pictures,3
+787,80000000,8.923215,10166502.0,6.8,91.0,The Great Raid,Action,Lawrence Bender Productions,0
+788,58000000,514.569956,783112979.0,7.4,10995.0,Deadpool,Action,Twentieth Century Fox Film Corporation,4
+789,60000000,9.265672,0.0,4.9,111.0,Holy Man,Drama,Caravan Pictures,0
+790,58800000,87.53437,542307423.0,7.4,4469.0,American Sniper,War,Village Roadshow Pictures,1
+791,58000000,45.351617,158162788.0,6.2,995.0,Goosebumps,Adventure,Columbia Pictures,4
+792,58000000,13.43573,102854431.0,6.5,579.0,Just Like Heaven,Comedy,DreamWorks SKG,0
+793,83000000,6.248309,59468275.0,4.4,134.0,The Flintstones in Viva Rock Vegas,Science Fiction,Universal Pictures,0
+794,63000000,31.294717,189015611.0,5.7,690.0,Rambo III,Action,TriStar Pictures,4
+795,58000000,7.739276,41299492.0,5.7,130.0,Leatherheads,Comedy,Universal Pictures,4
+796,60000000,19.694695,0.0,4.9,388.0,The Ridiculous 6,Comedy,Happy Madison Productions,4
+797,58000000,14.403696,85280250.0,5.1,276.0,Did You Hear About the Morgans?,Comedy,Columbia Pictures,4
+798,58000000,1.551497,44000000.0,6.1,1658.0,The Internship,Comedy,Twentieth Century Fox Film Corporation,0
+799,60000000,2.143764,300228084.0,5.8,1363.0,Resident Evil: Afterlife,Action,Impact Pictures,4
+800,58000000,12.29603,50365377.0,5.9,178.0,Red Tails,Drama,Lucasfilm,0
+801,57000000,33.8473,152944660.0,7.2,1374.0,The Devil's Advocate,Drama,Regency Enterprises,0
+802,70000000,21.723897,58058367.0,5.5,453.0,That's My Boy,Comedy,Columbia Pictures,2
+803,57000000,31.791979,115267375.0,6.4,535.0,DragonHeart,Fantasy,Universal Pictures,1
+804,60000000,14.113066,61347797.0,6.0,226.0,After the Sunset,Action,New Line Cinema,2
+805,57000000,48.622278,149217355.0,4.7,1135.0,Ghost Rider: Spirit of Vengeance,Action,Columbia Pictures,1
+806,57000000,9.061866,62112895.0,5.5,145.0,Captain Corelli's Mandolin,Drama,Miramax Films,1
+807,56000000,35.4763,113006880.0,5.8,842.0,The Pacifier,Action,Walt Disney Pictures,4
+808,56000000,23.438398,57223890.0,6.0,381.0,Walking Tall,Adventure,Metro-Goldwyn-Mayer (MGM),1
+809,55000000,138.133331,677945399.0,8.2,7927.0,Forrest Gump,Comedy,Paramount Pictures,2
+810,60000000,47.336034,361366633.0,5.5,1177.0,Alvin and the Chipmunks,Comedy,Dune Entertainment,3
+811,55000000,29.97224,330444045.0,6.6,1698.0,Meet the Parents,Comedy,DreamWorks SKG,4
+812,55000000,47.845589,346079773.0,6.7,1457.0,Pocahontas,Adventure,Walt Disney Pictures,0
+813,55000000,48.507081,300218018.0,6.9,1022.0,Superman,Action,Warner Bros.,4
+814,54000000,20.28119,128769345.0,5.4,702.0,The Nutty Professor,Fantasy,Imagine Entertainment,4
+815,70000000,34.576913,368100420.0,6.4,1665.0,Hitch,Comedy,Columbia Pictures Corporation,0
+816,55000000,22.573237,0.0,5.4,496.0,George of the Jungle,Adventure,Walt Disney Pictures,4
+817,55000000,36.194802,231449203.0,6.0,1129.0,American Wedding,Comedy,Universal Pictures,3
+818,55000000,52.786917,95000000.0,7.6,2454.0,Captain Phillips,Action,Columbia Pictures,0
+819,55000000,38.06168,152263880.0,5.9,1122.0,Date Night,Comedy,Twentieth Century Fox Film Corporation,1
+820,50000000,19.830132,287928194.0,6.0,1019.0,Casper,Fantasy,Universal Pictures,1
+821,55000000,79.922059,192330738.0,7.1,2954.0,The Equalizer,Thriller,Columbia Pictures,0
+822,55000000,19.738215,154906693.0,5.6,485.0,Maid in Manhattan,Comedy,Red Om Films,2
+823,53000000,20.334629,157387195.0,7.0,498.0,Crimson Tide,Action,Hollywood Pictures,4
+824,55000000,80.581367,307077295.0,7.7,2525.0,The Pursuit of Happyness,Drama,Columbia Pictures Corporation,2
+825,55000000,32.05145,223387299.0,6.1,772.0,Flightplan,Thriller,Imagine Entertainment,4
+826,55000000,15.064058,214015089.0,5.9,210.0,Disclosure,Drama,Warner Bros.,4
+827,55000000,21.272734,198685114.0,6.4,529.0,City of Angels,Drama,Atlas Entertainment,0
+828,30000000,79.754966,180949000.0,7.7,4949.0,Kill Bill: Vol. 1,Action,Miramax Films,2
+829,55000000,13.191829,0.0,6.0,254.0,Bowfinger,Comedy,Universal Pictures,2
+830,30000000,50.622607,152159461.0,7.6,3948.0,Kill Bill: Vol. 2,Action,Miramax Films,0
+831,55000000,22.787667,63408614.0,6.1,458.0,Tango & Cash,Action,Warner Bros.,3
+832,55000000,29.498304,149022650.0,6.3,636.0,Death Becomes Her,Fantasy,Universal Pictures,0
+833,55000000,25.400935,56932305.0,6.2,735.0,Shanghai Noon,Adventure,Spyglass Entertainment,4
+834,55000000,17.231675,121969216.0,5.8,256.0,Executive Decision,Action,Silver Pictures,3
+835,55000000,32.835777,187361754.0,5.7,751.0,Mr. Popper's Penguins,Comedy,Twentieth Century Fox Film Corporation,4
+836,55000000,17.097041,127906624.0,6.3,461.0,The Forbidden Kingdom,Action,Casey Silver Productions,3
+837,55000000,14.414937,110000000.0,5.7,254.0,Free Birds,Animation,Reel FX Creative Studios,4
+838,50000000,45.856409,159773545.0,6.2,1633.0,Alien³,Science Fiction,Twentieth Century Fox Film Corporation,4
+839,55000000,7.027139,141047179.0,5.9,120.0,Evita,History,Hollywood Pictures,1
+840,55000000,32.657488,41610884.0,6.7,658.0,Ronin,Action,United Artists,1
+841,50000000,12.46525,75000000.0,6.4,236.0,The Ghost and the Darkness,Adventure,Constellation Films,4
+842,55000000,39.882276,259207227.0,7.0,883.0,Paddington,Family,The Weinstein Company,4
+843,68000000,39.395881,68267862.0,5.3,881.0,The Watch,Comedy,Ingenious Film Partners,4
+844,55000000,8.634954,34234008.0,6.0,189.0,The Hunted,Drama,Lakeshore Entertainment,0
+845,80000000,7.386394,0.0,6.2,146.0,Instinct,Drama,Spyglass Entertainment,4
+846,55000000,8.802525,33828318.0,5.1,188.0,Stuck on You,Comedy,Twentieth Century Fox Film Corporation,0
+847,0,10.449975,33472850.0,5.4,251.0,Semi-Pro,Comedy,New Line Cinema,4
+848,60000000,23.700759,118338361.0,6.4,374.0,The Pirates! In an Adventure with Scientists!,Animation,Columbia Pictures,3
+849,55000000,27.50916,113020255.0,7.3,1131.0,Changeling,Crime,Imagine Entertainment,4
+850,50000000,20.58862,60209334.0,5.3,284.0,Chain Reaction,Action,Twentieth Century Fox Film Corporation,0
+851,55000000,4.366488,18626419.0,5.7,194.0,The Fan,Drama,TriStar Pictures,4
+852,70000000,18.927463,154648887.0,7.0,438.0,The Phantom of the Opera,Thriller,Odyssey Entertainment,0
+853,55000000,15.274137,74237563.0,6.6,303.0,Elizabeth: The Golden Age,Drama,Universal Pictures,4
+854,62000000,29.954302,52304001.0,5.4,703.0,Æon Flux,Action,Paramount Pictures,0
+855,56000000,4.362535,12923936.0,6.1,48.0,Gods and Generals,Drama,Warner Bros. Pictures,1
+856,55000000,4.700024,11466088.0,5.2,62.0,Turbulence,Action,Metro-Goldwyn-Mayer (MGM),4
+857,55000000,12.340384,0.0,5.7,134.0,Imagine That,Comedy,Paramount Pictures,0
+858,50000000,14.808304,80383290.0,6.2,316.0,Muppets Most Wanted,Comedy,Buena Vista,4
+859,57000000,9.27875,28283637.0,4.2,91.0,Thunderbirds,Action,Studio Canal,0
+860,55000000,22.863516,89519773.0,6.9,573.0,Burlesque,Drama,Bedford Falls Productions,4
+861,47000000,23.05451,0.0,7.1,346.0,A Very Long Engagement,Drama,Gerber Pictures,0
+862,2000000,23.962109,9250000.0,7.3,395.0,Lolita,Drama,Seven Arts Productions,0
+863,55000000,12.669778,6416302.0,5.3,123.0,D-Tox,Action,Universal Pictures,3
+864,54000000,67.169587,155010032.0,6.2,1528.0,Blade II,Fantasy,New Line Cinema,4
+865,55000000,41.472404,168167691.0,7.5,2039.0,Seven Pounds,Drama,Columbia Pictures,2
+866,55000000,22.503935,9489829.0,5.2,481.0,Bullet to the Head,Action,Dark Castle Entertainment,4
+867,54000000,59.194915,136766062.0,7.1,1546.0,The Godfather: Part III,Crime,Paramount Pictures,4
+868,57000000,22.894898,52034889.0,6.1,327.0,Elizabethtown,Comedy,Paramount Pictures,0
+869,54000000,18.600367,130431368.0,5.4,407.0,"You, Me and Dupree",Comedy,Universal Pictures,3
+870,54000000,30.515175,190458706.0,6.5,629.0,Superman II,Action,Warner Bros.,3
+871,54000000,9.053456,7266209.0,3.5,104.0,Gigli,Drama,City Light Films,3
+872,55000000,7.768223,9450897.0,5.7,95.0,All the King's Men,Drama,Columbia Pictures Corporation,4
+873,46000000,19.643365,107196498.0,5.5,308.0,Shaft,Action,Paramount Pictures,4
+874,53000000,45.565918,139804348.0,7.4,1432.0,Anastasia,Animation,Twentieth Century Fox Film Corporation,3
+875,52500000,57.374341,179213434.0,7.4,1300.0,Moulin Rouge!,Drama,Bazmark Films,0
+876,75000000,8.41856,54249294.0,5.4,113.0,Domestic Disturbance,Mystery,Paramount Pictures,0
+877,53000000,46.049902,98837872.0,6.3,1242.0,Black Mass,Crime,Infinitum Nihil,2
+878,90000000,23.9366,65900249.0,6.7,526.0,Flags of Our Fathers,War,DreamWorks SKG,3
+879,53000000,49.593978,126690726.0,7.2,1486.0,Law Abiding Citizen,Drama,"Film Department, The",0
+880,67000000,16.637642,25037897.0,6.8,459.0,Grindhouse,Thriller,Big Talk Productions,4
+881,0,1.453765,0.0,5.9,26.0,Beloved,Drama,Harpo Films,3
+882,0,6.162872,5761917.0,5.4,81.0,Lucky You,Drama,Village Roadshow Pictures,4
+883,52000000,73.944049,352114312.0,7.7,3795.0,Catch Me If You Can,Drama,Kemp Company,1
+884,40000000,38.306954,132820716.0,6.7,1702.0,Zero Dark Thirty,Thriller,Columbia Pictures,0
+885,52000000,26.251217,204999686.0,5.6,832.0,The Break-Up,Romance,Universal Pictures,4
+886,52000000,30.780599,609841637.0,6.4,1386.0,Mamma Mia!,Comedy,Universal Pictures,4
+887,52000000,25.41929,216485654.0,5.7,1013.0,Valentine's Day,Comedy,New Line Cinema,0
+888,50000000,15.98212,110803676.0,5.1,316.0,The Dukes of Hazzard,Action,Village Roadshow Pictures,0
+889,52000000,40.072583,98126565.0,7.2,771.0,The Thin Red Line,Drama,Fox 2000 Pictures,4
+890,52000000,32.015477,75450437.0,5.9,736.0,The Change-Up,Comedy,Universal Pictures,0
+891,82000000,24.444186,47434430.0,6.9,435.0,Man on the Moon,Comedy,Mutual Film Company,0
+892,52000000,40.06688,116112375.0,7.8,1307.0,Casino,Drama,Universal Pictures,4
+893,52000000,27.916284,52826594.0,6.1,675.0,From Paris with Love,Action,Apipoulaï,0
+894,52000000,15.20707,0.0,5.1,278.0,Bulletproof Monk,Action,Metro-Goldwyn-Mayer (MGM),0
+895,51000000,39.001682,149270999.0,6.1,927.0,"Me, Myself & Irene",Comedy,Twentieth Century Fox Film Corporation,4
+896,51000000,10.430832,72779000.0,5.3,225.0,Barnyard,Animation,Paramount Pictures,4
+897,0,5.952527,47231070.0,5.1,109.0,Deck the Halls,Comedy,Regency Enterprises,4
+898,50000000,94.815867,709827462.0,5.6,2436.0,The Twilight Saga: New Moon,Adventure,Summit Entertainment,3
+899,60000000,67.298732,484409218.0,7.3,4056.0,Shrek,Adventure,DreamWorks SKG,0
+900,50200000,26.60772,127869379.0,6.5,1652.0,The Adjustment Bureau,Science Fiction,Universal Pictures,2
+901,48000000,28.803729,390493908.0,6.6,909.0,Robin Hood: Prince of Thieves,Adventure,Warner Bros.,2
+902,50000000,27.039636,273552592.0,6.7,913.0,Jerry Maguire,Comedy,Gracie Films,3
+903,50000000,68.87691,549368315.0,6.3,4697.0,Ted,Comedy,Universal Pictures,4
+904,50000000,37.885022,314178011.0,7.2,915.0,As Good as It Gets,Comedy,Gracie Films,0
+905,50000000,35.537397,202292902.0,7.0,832.0,Patch Adams,Comedy,Universal Pictures,0
+906,50000000,38.125008,173649015.0,6.0,923.0,Anchorman 2: The Legend Continues,Comedy,Paramount Pictures,0
+907,50000000,18.121404,171269535.0,5.6,644.0,Mr. Deeds,Comedy,New Line Cinema,3
+908,50000000,37.069253,260095987.0,6.6,2435.0,Super 8,Thriller,Paramount Pictures,4
+909,52000000,30.347332,256271286.0,7.1,716.0,Erin Brockovich,Drama,Jersey Films,0
+910,50000000,23.854701,177371441.0,6.3,850.0,How to Lose a Guy in 10 Days,Comedy,Paramount Pictures,4
+911,50000000,52.380982,188441614.0,7.0,3319.0,22 Jump Street,Crime,Columbia Pictures,4
+912,60000000,50.163785,223664608.0,7.2,1516.0,Interview with the Vampire,Horror,Geffen Pictures,3
+913,70000000,43.849351,225990978.0,6.4,1813.0,Yes Man,Comedy,Village Roadshow Pictures,4
+914,50000000,45.318703,216972543.0,6.2,1650.0,Central Intelligence,Action,New Line Cinema,3
+915,0,16.368283,0.0,6.9,277.0,Stepmom,Drama,Columbia Pictures,4
+916,50000000,38.616744,242786137.0,5.8,854.0,Daddy's Home,Comedy,Paramount Pictures,0
+917,50000000,65.90161,212902372.0,5.6,1652.0,Into the Woods,Fantasy,Walt Disney Pictures,4
+918,45000000,45.220386,184376254.0,7.3,1630.0,Inside Man,Crime,Imagine Entertainment,0
+919,90000000,17.457947,161626121.0,6.7,548.0,Payback,Drama,Paramount Pictures,1
+920,50000000,10.755847,152022101.0,5.0,213.0,Congo,Action,Paramount Pictures,4
+921,50000000,38.629763,120081841.0,6.5,909.0,We Bought a Zoo,Drama,Twentieth Century Fox Film Corporation,1
+922,50000000,32.693093,155446362.0,5.9,1486.0,Knowing,Action,Summit Entertainment,4
+923,50000000,18.806031,88715192.0,5.5,399.0,Failure to Launch,Comedy,Paramount Pictures,3
+924,50000000,32.233713,161451538.0,5.4,632.0,The Ring Two,Drama,DreamWorks,4
+925,50000000,37.990705,142851197.0,7.0,2443.0,"Crazy, Stupid, Love.",Comedy,Warner Bros.,4
+926,50000000,17.667826,200804534.0,5.2,820.0,Garfield,Animation,Twentieth Century Fox Film Corporation,0
+927,60000000,9.225166,0.0,5.2,193.0,Christmas with the Kranks,Comedy,Columbia Pictures,4
+928,50000000,46.180421,110206216.0,7.0,1381.0,Moneyball,Drama,Columbia Pictures,0
+929,50000000,30.397496,189859560.0,6.3,513.0,Outbreak,Action,Kopelson Entertainment,0
+930,50000000,83.295796,222809600.0,6.8,2268.0,Non-Stop,Action,StudioCanal,4
+931,50000000,23.935053,106303988.0,5.5,509.0,Race to Witch Mountain,Adventure,Walt Disney Pictures,3
+932,54000000,84.630969,132511035.0,7.7,4442.0,V for Vendetta,Action,Studio Babelsberg,1
+933,50000000,16.251204,88323487.0,6.0,692.0,Shanghai Knights,Action,Spyglass Entertainment,0
+934,50000000,9.894346,69834815.0,6.2,106.0,Curious George,Adventure,Imagine Entertainment,3
+935,50000000,12.050755,66002004.0,5.1,542.0,Herbie Fully Loaded,Comedy,Walt Disney Pictures,4
+936,50000000,11.596207,100020092.0,6.0,220.0,Don't Say a Word,Thriller,Village Roadshow Pictures,1
+937,50000000,53.02787,224803475.0,5.7,3239.0,Hansel & Gretel: Witch Hunters,Fantasy,Paramount Pictures,1
+938,50000000,14.382253,119137784.0,6.3,276.0,Unfaithful,Thriller,Regency Enterprises,3
+939,50000000,43.450266,144492830.0,5.9,1567.0,I Am Number Four,Action,DreamWorks SKG,3
+940,50000000,16.871194,94000000.0,6.3,451.0,Syriana,Drama,Section Eight,4
+941,50000000,42.526529,69411370.0,7.0,938.0,13 Hours: The Secret Soldiers of Benghazi,Action,Paramount Pictures,3
+942,50000000,34.890999,97437106.0,7.3,755.0,The Book of Life,Romance,Twentieth Century Fox Film Corporation,0
+943,45000000,18.186026,82800000.0,5.6,267.0,Firewall,Thriller,Village Roadshow Pictures,3
+944,50000000,13.576765,50068310.0,6.4,223.0,Absolute Power,Crime,Columbia Pictures,4
+945,50000000,19.434672,48169156.0,6.0,395.0,G.I. Jane,Action,Caravan Pictures,0
+946,50000000,62.925175,109423648.0,7.5,1506.0,The Game,Drama,PolyGram Filmed Entertainment,4
+947,50000000,32.927994,97607453.0,6.3,1067.0,Silent Hill,Horror,Silent Hill DCP Inc.,4
+948,0,14.837288,0.0,6.1,203.0,The Replacements,Comedy,Warner Bros.,0
+949,50000000,39.920035,234989584.0,6.1,1611.0,American Reunion,Comedy,Universal Pictures,4
+950,50000000,28.725621,44547681.0,6.8,582.0,The Negotiator,Action,Regency Enterprises,4
+951,50000000,20.566554,160602194.0,5.8,817.0,Into the Storm,Action,New Line Cinema,3
+952,50000000,20.333953,119208989.0,5.5,434.0,Beverly Hills Cop III,Action,Paramount Pictures,4
+953,50000000,33.98637,41482207.0,6.2,652.0,Gremlins 2: The New Batch,Comedy,Amblin Entertainment,1
+954,50000000,42.472324,83719388.0,7.2,1417.0,The Judge,Drama,Village Roadshow Pictures,0
+955,50000000,15.931084,0.0,5.8,255.0,The Peacemaker,Action,DreamWorks SKG,4
+956,45000000,29.880122,129394835.0,6.1,1267.0,Resident Evil: Apocalypse,Horror,Impact Pictures,4
+957,50000000,28.803802,40203020.0,6.1,750.0,Bridget Jones: The Edge of Reason,Comedy,Miramax Films,1
+958,50000000,14.993459,55495563.0,6.1,298.0,Out of Time,Thriller,Original Film,0
+959,50000000,9.114168,49000000.0,4.5,104.0,On Deadly Ground,Action,Warner Bros.,1
+960,50000000,12.31101,69425966.0,4.4,269.0,The Adventures of Sharkboy and Lavagirl,Adventure,Troublemaker Studios,0
+961,40000000,41.362082,144056873.0,6.3,1233.0,The Beach,Drama,Figment Films,1
+962,50000000,13.298205,49718611.0,5.9,189.0,Raising Helen,Drama,Touchstone Pictures,1
+963,40000000,19.085403,60462347.0,6.2,371.0,Ninja Assassin,Action,Studio Babelsberg,1
+964,50000000,9.622345,0.0,6.3,88.0,For Love of the Game,Drama,Universal Pictures,1
+965,50000000,11.106006,113309743.0,4.4,205.0,Striptease,Drama,Columbia Pictures,1
+966,50000000,12.25622,83761844.0,5.0,149.0,Marmaduke,Family,Twentieth Century Fox Film Corporation,2
+967,50000000,13.365715,105197635.0,5.8,510.0,Hereafter,Drama,Amblin Entertainment,1
+968,50000000,16.167093,56714147.0,6.0,268.0,Murder by Numbers,Crime,Castle Rock Entertainment,4
+969,50000000,23.073933,30303072.0,6.0,387.0,Assassins,Action,Silver Pictures,1
+970,50000000,6.567065,82169884.0,6.0,654.0,Hannibal Rising,Crime,Ingenious Film Partners,1
+971,50000000,6.22577,58900031.0,5.9,75.0,The Story of Us,Comedy,Universal Pictures,2
+972,44000000,42.933027,63327201.0,6.0,1817.0,The Host,Action,Nick Wechsler Productions,1
+973,50000000,19.226763,42792561.0,6.2,286.0,Basic,Action,Intermedia Films,4
+974,50000000,10.089065,26199517.0,6.1,206.0,Blood Work,Crime,Malpaso Productions,4
+975,50000000,13.391833,60161391.0,6.0,368.0,The International,Drama,Studio Babelsberg,4
+976,50000000,21.637234,42277365.0,5.6,373.0,Escape from L.A.,Action,Paramount Pictures,1
+977,70000000,61.245957,23159305.0,7.6,1436.0,The Iron Giant,Adventure,Warner Bros. Animation,1
+978,50000000,25.237969,34808403.0,7.1,775.0,The Life Aquatic with Steve Zissou,Adventure,Touchstone Pictures,4
+979,50000000,21.589393,25035950.0,6.6,428.0,Free State of Jones,War,Larger Than Life Productions,4
+980,50000000,22.442241,38955598.0,7.3,480.0,The Life of David Gale,Drama,Mikona Productions GmbH & Co. KG,4
+981,40000000,6.004422,0.0,5.4,120.0,Man of the House,Comedy,Revolution Studios,1
+982,50000000,74.64653,71561644.0,6.3,1148.0,Run All Night,Action,Vertigo Entertainment,3
+983,51500000,35.481169,55112356.0,7.2,848.0,Eastern Promises,Thriller,BBC Films,4
+984,50000000,14.723467,44434439.0,5.8,458.0,Into the Blue,Action,Columbia Pictures Corporation,4
+985,60000000,21.084542,66976317.0,6.2,367.0,The Messenger: The Story of Joan of Arc,Adventure,Columbia Pictures,1
+986,49900000,21.408222,26121638.0,5.2,501.0,Your Highness,Comedy,Universal Pictures,3
+987,50000000,19.267479,38502340.0,5.8,391.0,Dream House,Drama,Cliffjack Motion Pictures,1
+988,50000000,3.314004,10541523.0,5.9,81.0,Mad City,Action,Warner Bros.,0
+989,50000000,21.312186,16671505.0,5.8,274.0,Baby's Day Out,Action,Twentieth Century Fox Film Corporation,1
+990,50000000,7.44268,10382407.0,5.5,108.0,The Scarlet Letter,Drama,Hollywood Pictures,2
+991,22000000,12.54949,24188922.0,6.5,235.0,Fair Game,Drama,River Road Entertainment,4
+992,50000000,18.394571,22944502.0,6.0,444.0,Domino,Action,New Line Cinema,4
+993,50000000,8.189406,9851610.0,5.2,44.0,Jade,Action,Paramount Pictures,4
+994,50000000,27.631262,40828540.0,5.6,760.0,Gamer,Action,Lakeshore Entertainment,1
+995,60000000,40.721373,60052138.0,5.6,984.0,Beautiful Creatures,Fantasy,Alcon Entertainment,1
+996,55000000,11.329727,0.0,5.9,132.0,Death to Smoochy,Comedy,Senator Film Produktion,2
+997,50000000,37.253774,55969000.0,4.7,797.0,Zoolander 2,Comedy,Scott Rudin Productions,4
+998,50000000,6.397388,6808550.0,5.0,76.0,The Big Bounce,Comedy,Shangri-La Entertainment,1
