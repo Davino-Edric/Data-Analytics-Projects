@@ -1,0 +1,28 @@
+2026-03-20 23:18:26  INFO      ══════════════════════════════════════════════════════
+2026-03-20 23:18:26  INFO        Forex Scraper started  |  Pair: EURUSD  |  2026-03-20 23:18:26
+2026-03-20 23:18:26  INFO      ══════════════════════════════════════════════════════
+2026-03-20 23:18:26  INFO      [EURUSD | 1H]  Scraped 159 rows  →  159 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\1H\EURUSD.csv
+2026-03-20 23:18:26  INFO      [EURUSD | 4H]  Scraped 351 rows  →  351 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\4H\EURUSD.csv
+2026-03-20 23:18:26  INFO      [EURUSD | 1D]  Scraped 518 rows  →  518 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\1D\EURUSD.csv
+2026-03-20 23:18:26  INFO      Scheduled  EURUSD  →  1H every 1 h | 4H every 4 h | 1D every 24 h
+2026-03-20 23:18:26  INFO      Script has been executed successfully  (pair=EURUSD)
+2026-03-20 23:27:35  ERROR     HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: AUGJPY=X"}}}
+2026-03-20 23:27:36  ERROR     $AUGJPY=X: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-03-20 23:27:36  ERROR     $AUGJPY=X: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2026-03-20 23:27:56  INFO      ══════════════════════════════════════════════════════
+2026-03-20 23:27:56  INFO        Forex Scraper started  |  Pair: EURUSD  |  2026-03-20 23:27:56
+2026-03-20 23:27:56  INFO      ══════════════════════════════════════════════════════
+2026-03-20 23:27:56  INFO      [EURUSD | 1H]  Scraped 159 rows  →  0 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\1H\EURUSD.csv
+2026-03-20 23:27:56  INFO      [EURUSD | 4H]  Scraped 351 rows  →  0 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\4H\EURUSD.csv
+2026-03-20 23:27:56  INFO      [EURUSD | 1D]  Scraped 518 rows  →  0 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\1D\EURUSD.csv
+2026-03-20 23:27:56  INFO      Scheduled  EURUSD  →  1H every 1 h | 4H every 4 h | 1D every 24 h
+2026-03-20 23:27:56  INFO      Script has been executed successfully  (pair=EURUSD)
+2026-03-20 23:33:14  INFO      Scraper stopped by user (KeyboardInterrupt).
+2026-03-20 23:37:35  INFO      ══════════════════════════════════════════════════════
+2026-03-20 23:37:35  INFO        Forex Scraper started  |  Pair: EURUSD  |  2026-03-20 23:37:35
+2026-03-20 23:37:35  INFO      ══════════════════════════════════════════════════════
+2026-03-20 23:37:35  INFO      [EURUSD | 1H]  Scraped 159 rows  →  0 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\1H\EURUSD.csv
+2026-03-20 23:37:35  INFO      [EURUSD | 4H]  Scraped 351 rows  →  0 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\4H\EURUSD.csv
+2026-03-20 23:37:35  INFO      [EURUSD | 1D]  Scraped 518 rows  →  0 new appended  →  C:\Coding\VsCode\Coding\Data-Analytics-Projects\55. Dad's python project\python_version_only\data\1D\EURUSD.csv
+2026-03-20 23:37:35  INFO      Scheduled  EURUSD  →  1H every 1 h | 4H every 4 h | 1D every 24 h
+2026-03-20 23:37:35  INFO      Script has been executed successfully  (pair=EURUSD)

@@ -1,0 +1,1 @@
+Bapak Ibu Juri diharapkan membuka Final test 1 sebelun Final test 2, mereka berbeda di new data test yang dilakukan secara kronologis (Kami melakukan FInal test 1 sebelum Final test 2) Terimakasih.
